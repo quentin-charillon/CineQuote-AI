@@ -1,4 +1,23 @@
 /** Same-origin Vercel proxy. RENDER_API_URL and PROXY_SHARED_SECRET stay server-side. */
+const BODYLESS_STATUSES = new Set([101, 204, 205, 304])
+
+function createClientResponse(upstream: Response, requestMethod: string): Response {
+  const headers = new Headers(upstream.headers)
+
+  // fetch transparently decodes compressed upstream responses. Forwarding the
+  // original transport metadata would make the browser decode that body again.
+  headers.delete('content-encoding')
+  headers.delete('content-length')
+  headers.delete('transfer-encoding')
+
+  const hasBody = requestMethod !== 'HEAD' && !BODYLESS_STATUSES.has(upstream.status)
+  return new Response(hasBody ? upstream.body : null, {
+    status: upstream.status,
+    statusText: upstream.statusText,
+    headers,
+  })
+}
+
 export default {
   async fetch(request: Request): Promise<Response> {
     const backend = process.env.RENDER_API_URL?.replace(/\/$/, '')
@@ -28,13 +47,14 @@ export default {
     headers.set('x-cinequote-proxy-secret', proxySecret)
 
     try {
-      return await fetch(upstream, {
+      const response = await fetch(upstream, {
         method: request.method,
         headers,
         body: ['GET', 'HEAD'].includes(request.method) ? undefined : request.body,
         redirect: 'manual',
         duplex: 'half',
       } as RequestInit & { duplex: 'half' })
+      return createClientResponse(response, request.method)
     } catch {
       return Response.json({ detail: 'The API is temporarily unavailable' }, { status: 502 })
     }

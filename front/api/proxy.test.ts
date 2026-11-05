@@ -52,6 +52,57 @@ describe('Vercel API proxy', () => {
     expect(headers.get('x-cinequote-proxy-secret')).toBe('test-proxy-secret')
   })
 
+  it('removes stale compression and transport headers from a decoded upstream body', async () => {
+    process.env.RENDER_API_URL = 'https://cinequote-api.onrender.com'
+    process.env.PROXY_SHARED_SECRET = 'test-proxy-secret'
+    const decodedBody = JSON.stringify({ difficulties: ['easy', 'medium', 'hard'] })
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue(new Response(decodedBody, {
+      status: 200,
+      headers: {
+        'Content-Type': 'application/json',
+        'Content-Encoding': 'br',
+        'Content-Length': '361',
+        'Transfer-Encoding': 'chunked',
+        'Set-Cookie': 'cinequote_session=abc; HttpOnly; Secure',
+      },
+    })))
+
+    const response = await proxy.fetch(new Request(
+      'https://cinequote.example/api/proxy?path=quiz%2Fsessions%2Favailability',
+    ))
+
+    expect(response.status).toBe(200)
+    expect(await response.text()).toBe(decodedBody)
+    expect(response.headers.get('content-type')).toContain('application/json')
+    expect(response.headers.get('content-encoding')).toBeNull()
+    expect(response.headers.get('content-length')).toBeNull()
+    expect(response.headers.get('transfer-encoding')).toBeNull()
+    expect(response.headers.get('set-cookie')).toContain('HttpOnly')
+  })
+
+  it('does not attach a body to HEAD or bodyless status responses', async () => {
+    process.env.RENDER_API_URL = 'https://cinequote-api.onrender.com'
+    process.env.PROXY_SHARED_SECRET = 'test-proxy-secret'
+    const fetchMock = vi.fn()
+      .mockResolvedValueOnce(new Response(null, { status: 200, headers: { 'Content-Length': '42' } }))
+      .mockResolvedValueOnce(new Response(null, { status: 204, headers: { 'Content-Encoding': 'br' } }))
+    vi.stubGlobal('fetch', fetchMock)
+
+    const headResponse = await proxy.fetch(new Request(
+      'https://cinequote.example/api/proxy?path=health%2Fready',
+      { method: 'HEAD' },
+    ))
+    const noContentResponse = await proxy.fetch(new Request(
+      'https://cinequote.example/api/proxy?path=health%2Fready',
+    ))
+
+    expect(headResponse.body).toBeNull()
+    expect(headResponse.headers.get('content-length')).toBeNull()
+    expect(noContentResponse.status).toBe(204)
+    expect(noContentResponse.body).toBeNull()
+    expect(noContentResponse.headers.get('content-encoding')).toBeNull()
+  })
+
   it('rejects a missing or unsafe upstream path', async () => {
     process.env.RENDER_API_URL = 'https://cinequote-api.onrender.com'
     process.env.PROXY_SHARED_SECRET = 'test-proxy-secret'
