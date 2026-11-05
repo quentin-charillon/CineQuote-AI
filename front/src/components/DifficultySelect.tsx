@@ -5,7 +5,7 @@ import type { Difficulty, Genre, QuizAvailability, User } from '../api/types'
 import { FilmMark } from './FilmMark'
 import './DifficultySelect.css'
 
-interface Props { onSelect: (difficulty: Difficulty, genre: Genre) => void; onCustom: (prompt: string) => void; user: User | null; onAccount: () => void; onStats: () => void; onLogout: () => void }
+interface Props { onSelect: (difficulty: Difficulty, genre: Genre) => void; onCustom: (prompt: string) => void; user: User | null; onAccount: () => void; onStats: () => void; onLogout: () => void; onBack: () => void }
 type GameBuilder = 'classic' | 'custom' | null
 
 const genres: Genre[] = ['all', 'horror', 'comedy', 'science_fiction', 'thriller', 'action', 'animation', 'romance', 'fantasy', 'adventure']
@@ -16,7 +16,7 @@ const descriptions: Record<Difficulty, string> = {
 }
 const genreLabel = (genre: Genre) => genre === 'all' ? 'All Genres' : genre === 'romance' ? 'Romance / Musical Comedy' : genre.replace('_', ' ').replace(/\b\w/g, letter => letter.toUpperCase())
 
-export function DifficultySelect({ onSelect, onCustom, user, onAccount, onStats, onLogout }: Props) {
+export function DifficultySelect({ onSelect, onCustom, user, onAccount, onStats, onLogout, onBack }: Props) {
   const [availability, setAvailability] = useState<QuizAvailability[]>([])
   const [genre, setGenre] = useState<Genre>('all')
   const [builder, setBuilder] = useState<GameBuilder>('classic')
@@ -39,7 +39,7 @@ export function DifficultySelect({ onSelect, onCustom, user, onAccount, onStats,
   return <section className="difficulty-shell" aria-labelledby="difficulty-title">
     <div className="difficulty-grain" aria-hidden="true" />
     <nav className="difficulty-nav">
-      <div className="difficulty-brand"><FilmMark /><span>Cine</span><b>Quote</b></div>
+      <div className="difficulty-nav__left"><button className="selection-back" type="button" onClick={onBack}>← Back</button><div className="difficulty-brand"><FilmMark /><span>Cine</span><b>Quote</b></div></div>
       <div className="selection-account">{user ? <><span>{user.username}</span><button type="button" onClick={onStats}>My stats</button><button type="button" onClick={onLogout}>Sign out</button></> : <button className="sign-in" type="button" onClick={onAccount}>Sign in</button>}</div>
     </nav>
 

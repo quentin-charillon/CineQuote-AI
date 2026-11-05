@@ -53,6 +53,7 @@ export default {
         body: ['GET', 'HEAD'].includes(request.method) ? undefined : request.body,
         redirect: 'manual',
         duplex: 'half',
+        signal: request.signal,
       } as RequestInit & { duplex: 'half' })
       return createClientResponse(response, request.method)
     } catch {

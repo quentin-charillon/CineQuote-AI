@@ -4,11 +4,12 @@ import './WelcomeScreen.css'
 interface Props {
   onSolo: () => void
   onMultiplayer: () => void
+  onStats: () => void
   multiplayer?: boolean
   onBack?: () => void
 }
 
-export function WelcomeScreen({ onSolo, onMultiplayer, multiplayer = false, onBack }: Props) {
+export function WelcomeScreen({ onSolo, onMultiplayer, onStats, multiplayer = false, onBack }: Props) {
   return <section className="welcome-shell">
     <div className="welcome-grain" aria-hidden="true" />
     <div className="welcome-glow" aria-hidden="true" />
@@ -37,6 +38,7 @@ export function WelcomeScreen({ onSolo, onMultiplayer, multiplayer = false, onBa
         <div className="play-mode-actions" aria-label="Choose a game mode">
           <button className="welcome-primary" type="button" onClick={onSolo}><small>01</small> Solo <span>→</span></button>
           <button className="welcome-secondary" type="button" onClick={onMultiplayer}><small>02</small> Multiplayer <span>Soon</span></button>
+          <button className="welcome-secondary welcome-stats" type="button" onClick={onStats}><small>03</small> My stats <span>View</span></button>
         </div>
       </div>
     </div>}

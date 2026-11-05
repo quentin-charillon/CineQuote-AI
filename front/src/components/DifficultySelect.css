@@ -2,6 +2,9 @@
 .difficulty-shell::before { position:absolute; top:0; right:0; left:0; height:5px; background:radial-gradient(circle,#f1ad32 2px,transparent 3px) 0 0/20px 5px repeat-x; content:''; }
 .difficulty-grain { position:absolute; z-index:-1; inset:0; opacity:.12; background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 140 140' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.12'/%3E%3C/svg%3E"); }
 .difficulty-nav { display:flex; width:min(78rem,100%); align-items:center; justify-content:space-between; margin:0 auto; color:#aaa29a; font-size:.72rem; }
+.difficulty-nav__left { display:flex; gap:1rem; align-items:center; }
+.selection-back { border:1px solid #3c3030; border-radius:999px; padding:.55rem .85rem; color:#d8d0c8; background:transparent; cursor:pointer; }
+.selection-back:hover { border-color:var(--gold); color:var(--gold); }
 .difficulty-brand { display:flex; gap:.3rem; align-items:center; color:#f7f1e7; font-family:'Playfair Display',serif; font-size:1.25rem; }
 .difficulty-brand .film-mark { display:grid; grid-template-columns:repeat(3,4px); gap:3px; margin-right:.45rem; transform:skew(-8deg); }
 .difficulty-brand .film-mark span { width:4px; height:17px; background:var(--gold); }

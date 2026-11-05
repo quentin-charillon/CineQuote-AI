@@ -158,7 +158,7 @@ export function Quiz({ difficulty, genre, customPrompt, onExit, isAuthenticated 
       <BrandBar onExit={onExit} label={`Score ${score.toString().padStart(2, '0')}`} />
       <div className="quiz-layout">
         <header className="quiz-progress">
-          <div><p>Scene {String(question.question_number).padStart(2, '0')}</p><span>of {String(question.total_questions).padStart(2, '0')}</span></div>
+          <div><p>Scene {String(question.question_number).padStart(2, '0')} / {String(question.total_questions).padStart(2, '0')} · {difficulty} · {genre.replace('_', ' ')}</p></div>
           <div className="progress-track" aria-hidden="true"><span style={{ width: `${(question.question_number / question.total_questions) * 100}%` }} /></div>
         </header>
         <div className="question-panel">
@@ -229,7 +229,7 @@ function StatusScreen({ title, detail, actionLabel, onAction, onExit }: { title:
 }
 
 function BrandBar({ label, onExit }: { label: string; onExit: () => void }) {
-  return <nav className="quiz-nav" aria-label="Quiz navigation"><button className="quiz-brand" type="button" onClick={onExit} aria-label="Return home"><FilmMark /><span>CineQuote</span><span>Play</span></button><span>{label}</span></nav>
+  return <nav className="quiz-nav" aria-label="Quiz navigation"><button className="quiz-brand" type="button" onClick={onExit} aria-label="Return to game selection"><FilmMark /><span>Cine</span><span>Quote</span></button><div className="quiz-nav__actions"><span>{label}</span><button type="button" onClick={onExit}>Quit</button></div></nav>
 }
 
 function getErrorMessage(error: unknown): string {
