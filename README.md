@@ -1,290 +1,577 @@
-# CineQuote AI 2.0
 
-CineQuote AI is a full-stack movie-quote trivia game built as an AI-engineering portfolio project. Players identify films from dialogue, choose a genre and difficulty, track account statistics, and use guarded AI assistance without allowing a language model to invent quiz questions or decide scores.
+# 🎬 CineQuote AI 2.0
 
-The browser never receives a correct answer before submission. Quotes, choices, scoring, accounts, and statistics remain server controlled.
+### Testez vos connaissances cinématographiques grâce à l'intelligence artificielle !
 
-## Features
+**CineQuote AI** est une application web full-stack de quiz cinématographique intégrant l'intelligence artificielle.
 
-- Ten-question sessions with four distinct film choices.
-- Easy, Medium, and Hard difficulties.
-- All Genres, Horror, Comedy, Science Fiction, Thriller, Action, Animation, Romance / Musical Comedy, Fantasy, and Adventure modes.
-- Strict genre filtering, randomized questions and choices, and distractor variety.
-- Guest play or account-based statistics with secure HTTP-only sessions.
-- GroqCloud as the optional primary AI provider, with OpenAI support and offline fallbacks.
-- Guarded hints, post-answer explanations, personalized coaching, recommendations from missed films, and natural-language custom quiz planning.
-- Provider-output validation, caching, timeouts, rate limits, and quota-safe fallbacks.
-- SQLite locally, PostgreSQL in production, Alembic migrations, and an idempotent catalog bootstrap.
+Le principe est simple : une citation de film apparaît à l'écran et le joueur doit retrouver le film correspondant parmi quatre propositions.
 
-## Technology
+Le projet combine développement web, API REST, gestion de bases de données, authentification sécurisée et intégration de modèles d'intelligence artificielle.
 
-| Area | Technology |
+### 🌐 [🎮 Jouer à CineQuote AI](https://cine-quote-ai.vercel.app)
+
+**Projet développé dans le cadre de mon portfolio en développement logiciel et intelligence artificielle.**
+
+---
+
+## 📸 Aperçu de l'application
+
+### 🏠 Page d'accueil
+
+Découvrez l'interface principale de CineQuote AI.
+
+![Page d'accueil de CineQuote AI](docs/screenshots/accueil.png)
+
+### 🎭 Choix du quiz
+
+Sélectionnez un genre cinématographique et un niveau de difficulté pour personnaliser votre expérience.
+
+![Sélection du quiz](docs/screenshots/selection-quiz.png)
+
+### 🎬 Une question de cinéma
+
+Retrouvez le film correspondant à une citation parmi quatre réponses possibles.
+
+![Question de quiz](docs/screenshots/question.png)
+
+### 🤖 Assistance par intelligence artificielle
+
+Demandez un indice pour vous aider à retrouver le film sans révéler directement la bonne réponse.
+
+![Indice généré par IA](docs/screenshots/indice-ia.png)
+
+### 🏆 Résultats et statistiques
+
+Consultez votre score et suivez votre progression au fil des parties.
+
+![Résultats du quiz](docs/screenshots/resultats.png)
+
+> **Remarque :** les images ci-dessus doivent être ajoutées dans le dossier `docs/screenshots/` du dépôt GitHub pour être affichées.
+
+---
+
+## ✨ Fonctionnalités
+
+### 🎮 Quiz cinématographique
+
+- Sessions de 10 questions.
+- Quatre films proposés pour chaque citation.
+- Trois niveaux de difficulté : **Easy, Medium et Hard**.
+- Sélection de différents genres cinématographiques.
+- Mode regroupant tous les genres.
+- Questions et réponses mélangées aléatoirement.
+- Filtrage des questions selon les genres sélectionnés.
+- Quiz personnalisés à partir d'une demande en langage naturel.
+
+### 🎭 Genres disponibles
+
+- Horreur
+- Comédie
+- Science-fiction
+- Thriller
+- Action
+- Animation
+- Romance / Comédie musicale
+- Fantasy
+- Aventure
+
+### 🤖 Intelligence artificielle
+
+CineQuote AI utilise **GroqCloud** pour intégrer des fonctionnalités d'intelligence artificielle au jeu.
+
+Les principales fonctionnalités comprennent :
+
+- Génération d'indices contextuels.
+- Explications après les réponses.
+- Conseils personnalisés selon les performances.
+- Recommandations de films à découvrir.
+- Création de quiz personnalisés à partir d'instructions textuelles.
+
+L'application prend également en charge OpenAI comme fournisseur alternatif.
+
+Des mécanismes de validation, de limitation des requêtes et de repli permettent de maintenir le fonctionnement du jeu lorsque les services d'IA sont indisponibles.
+
+**L'intelligence artificielle n'est pas responsable de la sélection des bonnes réponses ni du calcul des scores.** Ces opérations sont contrôlées par le backend afin de garantir la cohérence du quiz.
+
+### 👤 Comptes et statistiques
+
+- Possibilité de jouer sans compte.
+- Inscription et connexion sécurisées.
+- Suivi des performances pour les utilisateurs connectés.
+- Conservation des statistiques dans une base de données.
+- Sessions d'authentification utilisant des cookies HTTP-only.
+
+---
+
+## 🛠️ Technologies utilisées
+
+| Domaine | Technologies |
 |---|---|
-| Frontend | React, TypeScript, Vite, CSS, Vitest |
-| Backend | Python, FastAPI, Pydantic, SQLAlchemy, Alembic |
-| Database | SQLite locally, PostgreSQL in production |
-| AI | Official Groq and OpenAI Python SDKs |
-| Testing | pytest, FastAPI TestClient, Vitest, TypeScript |
-| Hosting | Render, Vercel, same-origin `/api` proxy |
+| Frontend | React, TypeScript, Vite, CSS |
+| Backend | Python, FastAPI, Pydantic |
+| Base de données | PostgreSQL, SQLite |
+| ORM et migrations | SQLAlchemy, Alembic |
+| Intelligence artificielle | GroqCloud, OpenAI |
+| Tests | pytest, Vitest, FastAPI TestClient |
+| Hébergement frontend | Vercel |
+| Hébergement backend | Render |
+| Base de données cloud | Neon |
+| Versionnement | Git, GitHub |
 
-## Repository layout
+---
+
+## 🏗️ Architecture du projet
+
+CineQuote AI repose sur une architecture full-stack séparant le frontend, le backend et la base de données.
+
+```text
+                  UTILISATEUR
+                       |
+                       v
+             +-------------------+
+             |      VERCEL       |
+             |  React / Vite     |
+             |  TypeScript       |
+             +-------------------+
+                       |
+                       | Requêtes /api
+                       v
+             +-------------------+
+             |   PROXY VERCEL    |
+             +-------------------+
+                       |
+                       v
+             +-------------------+
+             |      RENDER       |
+             |  Python / FastAPI |
+             +-------------------+
+                  |         |
+                  v         v
+          +-----------+  +-------------+
+          |   NEON    |  |  GROQCLOUD  |
+          | PostgreSQL|  |     IA      |
+          +-----------+  +-------------+
+```
+
+### Frontend
+
+Le frontend est développé avec **React, TypeScript et Vite**.
+
+Il gère notamment :
+
+- L'interface utilisateur.
+- La navigation entre les différents écrans.
+- La sélection des quiz.
+- L'affichage des questions et des réponses.
+- Les interactions avec l'API.
+- L'affichage des résultats et des statistiques.
+
+### Backend
+
+Le backend est développé en **Python avec FastAPI**.
+
+Il prend en charge :
+
+- La gestion du catalogue de films et de citations.
+- La création des sessions de quiz.
+- La sélection des questions.
+- La vérification des réponses.
+- Le calcul des scores.
+- L'authentification.
+- Les statistiques.
+- Les communications avec les fournisseurs d'intelligence artificielle.
+
+Les bonnes réponses ne sont pas transmises au navigateur avant la validation des questions.
+
+### Base de données
+
+L'application utilise :
+
+- **SQLite** pour le développement local.
+- **PostgreSQL sur Neon** pour la production.
+
+Les migrations sont gérées avec Alembic.
+
+---
+
+## 🎞️ Catalogue cinématographique
+
+Le catalogue contient actuellement :
+
+- **73 films**
+- **421 citations**
+- Plusieurs genres cinématographiques
+- Différents niveaux de difficulté
+
+Les citations sont sélectionnées et vérifiées manuellement.
+
+Le catalogue est stocké dans :
+
+`back/app/data/manual_catalog.json`
+
+Un film peut posséder plusieurs citations et appartenir à plusieurs genres.
+
+---
+
+## 📁 Structure du projet
 
 ```text
 CineQuote-AI/
+|
 |-- back/
-|   |-- alembic/              # Database migrations
+|   |-- alembic/              # Migrations SQL
 |   |-- app/
-|   |   |-- api/routes/       # FastAPI routes
-|   |   |-- catalog/          # Catalog import/review utilities
-|   |   |-- data/             # Movie and quote catalog JSON
-|   |   |-- middleware/       # Browser and proxy security
-|   |   |-- models/           # SQLAlchemy entities
-|   |   |-- repositories/     # Catalog and quiz-session storage
-|   |   |-- schemas/          # Pydantic contracts
-|   |   `-- services/         # Quiz, auth, stats, and AI logic
-|   |-- scripts/              # Imports, audits, and production start
-|   |-- tests/                # Backend tests
+|   |   |-- api/routes/       # Routes FastAPI
+|   |   |-- catalog/          # Gestion du catalogue
+|   |   |-- data/             # Films et citations
+|   |   |-- middleware/       # Sécurité
+|   |   |-- models/           # Modèles SQLAlchemy
+|   |   |-- repositories/     # Accès aux données
+|   |   |-- schemas/          # Schémas Pydantic
+|   |   `-- services/         # Quiz, comptes, IA
+|   |-- scripts/              # Scripts de maintenance
+|   |-- tests/                # Tests backend
 |   `-- pyproject.toml
+|
 |-- front/
-|   |-- api/                  # Same-origin Vercel proxy
-|   |-- src/                  # React app and typed API client
+|   |-- api/                  # Proxy Vercel
+|   |-- src/                  # Application React
 |   |-- package.json
 |   |-- package-lock.json
 |   `-- vercel.json
-|-- render.yaml               # Render monorepo configuration
+|
+|-- docs/
+|   `-- screenshots/          # Captures d'écran
+|
+|-- render.yaml
 |-- .env.example
 `-- README.md
 ```
 
-## Prerequisites
+---
 
-- Python 3.11 or newer. Production is pinned to Python 3.12.8.
-- Node.js 20 or newer with npm.
-- The examples below use Windows PowerShell from the repository root.
+## 🚀 Installation locale
 
-## Local installation
+### Prérequis
 
-### Backend
+Avant de commencer, assurez-vous de disposer de :
+
+- Python 3.11 ou supérieur.
+- Node.js 20 ou supérieur.
+- npm.
+- Git.
+
+Les commandes suivantes sont prévues pour **Windows PowerShell**.
+
+### 1. Cloner le dépôt
+
+```powershell
+git clone https://github.com/quentin-charillon/CineQuote-AI.git
+cd CineQuote-AI
+```
+
+### 2. Installer le backend
 
 ```powershell
 cd back
+
 py -m venv .venv
+
 .\.venv\Scripts\Activate.ps1
+
 python -m pip install --upgrade pip
+
 pip install -e ".[dev]"
+
 Copy-Item .env.example .env
+
 python scripts\bootstrap_database.py
+
 uvicorn app.main:app --reload
 ```
 
-The bootstrap applies Alembic migrations and idempotently imports `app/data/manual_catalog.json`. A fresh catalog contains 73 films and 421 quotes.
+Le script d'initialisation applique les migrations Alembic et importe le catalogue de films.
 
-Useful URLs:
+Le backend est accessible sur :
+
+**http://localhost:8000**
+
+Documentation interactive de l'API :
+
+**http://localhost:8000/docs**
+
+Endpoints de santé :
 
 - `http://localhost:8000/health`
 - `http://localhost:8000/health/ready`
-- `http://localhost:8000/docs`
 
-### Frontend
+### 3. Installer le frontend
 
-Open a second PowerShell terminal:
+Ouvrir un second terminal PowerShell à la racine du projet :
 
 ```powershell
 cd front
+
 npm ci
+
 Copy-Item .env.example .env
+
 npm run dev
 ```
 
-Open `http://localhost:5173`. Vite proxies same-origin `/api` requests to local FastAPI.
+Ouvrir ensuite :
 
-## Configuration and secrets
+**http://localhost:5173**
 
-- `back/.env.example` documents backend settings.
-- `front/.env.example` documents the optional frontend API override.
-- `.env.example` is a short repository-level reference.
+Le serveur Vite transmet les requêtes `/api` au backend FastAPI local.
 
-Never commit `.env` files. Never prefix a secret with `VITE_`, because Vite variables can enter the browser bundle. Keep `GROQ_API_KEY`, `OPENAI_API_KEY`, `DATABASE_URL`, `SESSION_SECRET`, and `PROXY_SHARED_SECRET` server-side. Missing AI credentials intentionally activate safe fallback behavior.
+---
 
-## Tests and checks
+## 🔐 Configuration et sécurité
 
-Backend:
+Les fichiers d'exemple permettent de configurer l'application :
+
+- `back/.env.example`
+- `front/.env.example`
+- `.env.example`
+
+Les fichiers `.env` contenant des informations sensibles ne doivent jamais être publiés sur GitHub.
+
+Les secrets doivent rester côté serveur, notamment :
+
+- `GROQ_API_KEY`
+- `OPENAI_API_KEY`
+- `DATABASE_URL`
+- `SESSION_SECRET`
+- `PROXY_SHARED_SECRET`
+
+Les variables préfixées par `VITE_` peuvent être intégrées au code envoyé au navigateur. Elles ne doivent donc jamais contenir de secrets.
+
+### Protections implémentées
+
+- Hachage des mots de passe avec PBKDF2-HMAC-SHA256 et sel.
+- Jetons d'authentification aléatoires.
+- Stockage sécurisé des empreintes de jetons.
+- Cookies HTTP-only.
+- Cookies `Secure` et `SameSite=Strict` en production.
+- Protection contre les requêtes provenant d'origines non autorisées.
+- Vérification du secret partagé du proxy.
+- Limitation des tentatives de connexion et d'inscription.
+- Limitation des appels aux fonctionnalités IA.
+- Validation des réponses produites par les modèles.
+- Expiration des sessions de quiz inactives.
+
+Les clés API, mots de passe et bonnes réponses ne sont pas volontairement enregistrés dans les journaux applicatifs.
+
+Les sessions actives, certains caches IA et les limites de requêtes sont actuellement conservés en mémoire du processus backend. Cette architecture convient au déploiement initial avec un seul worker.
+
+---
+
+## 🧪 Tests
+
+Le projet possède des tests automatisés pour le backend et le frontend.
+
+### Tests backend
 
 ```powershell
 cd back
+
 .\.venv\Scripts\python.exe -m pytest
 ```
 
-Frontend:
+### Tests frontend
 
 ```powershell
 cd front
+
 npm test
+
 npm run typecheck
+
 npm run build
 ```
 
-Automated tests mock AI providers and make no paid/live provider calls. An optional test can target a disposable PostgreSQL database:
+Les tests automatisés simulent les fournisseurs d'intelligence artificielle afin d'éviter les appels réels et payants.
+
+### Tests PostgreSQL
+
+Un test d'intégration facultatif peut être exécuté sur une base PostgreSQL dédiée :
 
 ```powershell
 cd back
+
 $env:TEST_POSTGRES_DATABASE_URL = "postgresql://user:password@localhost:5432/cinequote_test"
+
 .\.venv\Scripts\python.exe -m pytest tests/test_postgres_integration.py
+
 Remove-Item Env:TEST_POSTGRES_DATABASE_URL
 ```
 
-Never point this test at production.
+**Ne jamais exécuter ce test sur la base de données de production.**
 
-## Catalog management
+---
 
-The authoritative catalog is `back/app/data/manual_catalog.json`. Imports normalize records and are idempotent. A film may have multiple distinct quotes and multiple genres.
+## 📚 API REST
 
-After editing the catalog locally:
+L'application expose plusieurs endpoints FastAPI.
+
+### Santé du serveur
+
+```http
+GET /health
+GET /health/ready
+```
+
+### Authentification et statistiques
+
+```http
+POST /auth/register
+POST /auth/login
+POST /auth/logout
+GET  /auth/me
+GET  /stats/me
+```
+
+### Intelligence artificielle
+
+```http
+POST /ai/coach
+POST /ai/recommendations
+```
+
+### Quiz
+
+```http
+GET  /quiz/sessions/availability
+POST /quiz/sessions
+POST /quiz/sessions/custom
+GET  /quiz/sessions/{id}/question
+POST /quiz/sessions/{id}/answers
+POST /quiz/sessions/{id}/hint
+POST /quiz/sessions/{id}/explanation
+GET  /quiz/sessions/{id}/results
+```
+
+Les requêtes effectuées depuis le frontend passent par le proxy `/api` de Vercel.
+
+---
+
+## ☁️ Déploiement en production
+
+CineQuote AI est actuellement déployé sur trois services cloud.
+
+### 🌐 Vercel
+
+Le frontend React est hébergé sur Vercel.
+
+**Site public :**
+
+https://cine-quote-ai.vercel.app
+
+Vercel assure :
+
+- La compilation du frontend.
+- L'hébergement de l'application web.
+- La gestion du domaine HTTPS.
+- Le proxy des requêtes API vers Render.
+
+### ⚙️ Render
+
+Le backend FastAPI est hébergé sur Render.
+
+Configuration :
+
+| Paramètre | Valeur |
+|---|---|
+| Langage | Python 3.12.8 |
+| Répertoire racine | `back` |
+| Build | `pip install --upgrade pip && pip install .` |
+| Démarrage | `python -m scripts.start_production` |
+| Health check | `/health/ready` |
+| Région | Francfort |
+| Workers | 1 |
+
+Au démarrage, le backend vérifie sa configuration, applique les migrations nécessaires et initialise le catalogue.
+
+### 🗄️ Neon
+
+La base de données PostgreSQL de production est hébergée sur **Neon**.
+
+Elle conserve notamment :
+
+- Les comptes utilisateurs.
+- Les informations d'authentification persistantes.
+- Les films et citations.
+- Les statistiques des joueurs.
+
+### 🔄 Mises à jour
+
+Le code source est versionné sur GitHub.
+
+Les services Vercel et Render peuvent être configurés pour déclencher automatiquement un nouveau déploiement après un `git push` sur la branche principale.
+
+Le déploiement automatique de chaque service dépend de sa configuration.
+
+---
+
+## ⚠️ Limites de l'hébergement gratuit
+
+Le projet utilise actuellement des offres d'hébergement gratuites.
+
+Certaines limites doivent être prises en compte :
+
+- **Render :** le backend peut être mis en veille après une période d'inactivité. La première requête peut donc prendre davantage de temps.
+- **Neon :** la base PostgreSQL est soumise aux limites de ressources et de stockage du forfait gratuit.
+- **Vercel :** les fonctions serverless et la bande passante sont soumises aux quotas du forfait utilisé.
+- **GroqCloud :** les appels à l'intelligence artificielle sont soumis aux limites du fournisseur.
+
+Les données persistantes sont conservées dans PostgreSQL, tandis que les sessions de quiz actives en mémoire peuvent être perdues lors d'un redémarrage du backend.
+
+---
+
+## 📝 Gestion du catalogue
+
+Le fichier de référence du catalogue est :
+
+`back/app/data/manual_catalog.json`
+
+Après modification du catalogue en local, il est possible de relancer son import :
 
 ```powershell
 cd back
+
 .\.venv\Scripts\python.exe scripts\bootstrap_database.py
 ```
 
-The catalog contains short dialogue excerpts entered and reviewed manually. Before a public or commercial launch, independently review wording, attribution, genre metadata, and quotation-licensing requirements for the intended jurisdiction.
+L'import est idempotent afin d'éviter la duplication des données.
 
-## API overview
+Les citations et leurs attributions doivent être vérifiées avant toute utilisation publique ou commerciale, notamment au regard des droits de propriété intellectuelle applicables.
 
-System:
+---
 
-- `GET /health`
-- `GET /health/ready`
+## 📄 Licence
 
-Accounts and statistics:
+Aucune licence logicielle spécifique n'a encore été sélectionnée pour ce projet.
 
-- `POST /auth/register`
-- `POST /auth/login`
-- `POST /auth/logout`
-- `GET /auth/me`
-- `GET /stats/me`
-- `POST /ai/coach`
-- `POST /ai/recommendations`
+Les titres de films et les extraits de dialogues peuvent être soumis à des droits de propriété intellectuelle distincts de ceux du code source.
 
-Quiz:
+---
 
-- `GET /quiz/sessions/availability`
-- `POST /quiz/sessions`
-- `POST /quiz/sessions/custom`
-- `GET /quiz/sessions/{id}/question`
-- `POST /quiz/sessions/{id}/answers`
-- `POST /quiz/sessions/{id}/hint`
-- `POST /quiz/sessions/{id}/explanation`
-- `GET /quiz/sessions/{id}/results`
+## 👨‍💻 Développeur
 
-## Security design
+**Quentin Charillon**
 
-- Passwords use salted PBKDF2-HMAC-SHA256 hashes.
-- Authentication tokens are random; production stores only keyed token hashes.
-- Cookies are HTTP-only and become `Secure; SameSite=Strict` in production.
-- Login is limited by IP and account identifier; registration is limited by IP.
-- AI endpoints have per-IP, per-user, feature-specific, and global limits.
-- Provider output is validated and replaced by conservative fallback text when unsafe.
-- Unsafe browser requests require the configured origin and production proxy secret.
-- Quiz sessions expire after inactivity and use bounded process memory.
-- API keys, answers, full prompts, and passwords are not intentionally logged.
+Étudiant en 5e année à **Epitech Lyon**, passionné par le développement logiciel, l'intelligence artificielle et le cinéma.
 
-Rate limits, AI caches, and active quiz sessions are process-local. They reset on restart and suit the initial single-worker deployment. Shared storage such as Redis is required before horizontal scaling.
+Ce projet me permet de réunir mes centres d'intérêt pour le cinéma et l'IA tout en approfondissant mes compétences en développement full-stack.
 
-## Production database
+**GitHub :** [quentin-charillon](https://github.com/quentin-charillon)
 
-Production requires PostgreSQL through `DATABASE_URL`. Render-style `postgresql://` URLs are normalized to Psycopg 3 automatically.
+**Application :** [CineQuote AI](https://cine-quote-ai.vercel.app)
 
-For a new empty database:
+---
 
-```powershell
-cd back
-$env:DATABASE_URL = "postgresql://user:password@host:5432/cinequote"
-.\.venv\Scripts\python.exe scripts\bootstrap_database.py
-Remove-Item Env:DATABASE_URL
-```
+### 🎬 Prêt à tester vos connaissances ?
 
-This imports only the public catalog. It never reads the ignored local `cinequote.db`, so local users, authentication sessions, and statistics are not transferred.
-
-## Deployment
-
-Nothing is deployed automatically by this repository.
-
-### Recommended order
-
-1. Generate different random `SESSION_SECRET` and `PROXY_SHARED_SECRET` values.
-2. Create an empty PostgreSQL database on Render.
-3. Create the Render backend from `render.yaml` and configure its secrets.
-4. Confirm `/health` and `/health/ready` return HTTP 200.
-5. Create the Vercel project with `front` as its root directory.
-6. Configure its two server-side variables.
-7. Deploy and verify `/api/health/ready` through Vercel.
-8. Create a new production test account and complete a quiz.
-
-Generate secrets locally without saving them in a committed file:
-
-```powershell
-.\back\.venv\Scripts\python.exe -c "import secrets; print(secrets.token_urlsafe(48)); print(secrets.token_urlsafe(48))"
-```
-
-### Render backend
-
-`render.yaml` configures:
-
-- Root Directory: `back`
-- Python: 3.12.8
-- Build: `pip install --upgrade pip && pip install .`
-- Start: `python -m scripts.start_production`
-- Health check: `/health/ready`
-- Region: Frankfurt
-- Uvicorn workers: one
-
-Required Render variables:
-
-| Variable | Value |
-|---|---|
-| `APP_ENV` | `production` |
-| `DATABASE_URL` | Render PostgreSQL internal URL |
-| `FRONTEND_URL` | Exact HTTPS Vercel production origin |
-| `SESSION_SECRET` | Random value, at least 32 characters |
-| `PROXY_SHARED_SECRET` | Different random value, at least 32 characters |
-| `GROQ_API_KEY` | Optional server-side Groq key |
-| `AI_PROVIDER` | `groq` or `fallback` |
-| `AUTH_COOKIE_SECURE` | `true` |
-| `AUTH_COOKIE_SAMESITE` | `strict` |
-| `CSRF_ORIGIN_CHECK_ENABLED` | `true` |
-| `TRUST_PROXY_HEADERS` | `true` |
-| `REQUIRE_PROXY_SECRET` | `true` |
-
-The entrypoint fails closed when critical configuration is missing, serializes migrations with a PostgreSQL advisory lock, imports the catalog, verifies counts, and then starts Uvicorn on Render's `$PORT`.
-
-### Vercel frontend
-
-| Setting | Value |
-|---|---|
-| Root Directory | `front` |
-| Framework | Vite |
-| Install Command | `npm ci` |
-| Build Command | `npm run build` |
-| Output Directory | `dist` |
-
-Server-side Vercel variables:
-
-| Variable | Value |
-|---|---|
-| `RENDER_API_URL` | Public HTTPS Render service origin |
-| `PROXY_SHARED_SECRET` | Same value as Render |
-
-Leave `VITE_API_URL` unset in production. `front/vercel.json` routes `/api/:path*` to `front/api/proxy.ts` before applying the SPA fallback. The proxy preserves methods, query parameters, status codes, cookies, response bodies, and important headers.
-
-## Hosting limitations and costs
-
-- Render free web services sleep after inactivity, so the first request can be slow. Their filesystem is ephemeral; never use SQLite there.
-- Render free PostgreSQL expires after 30 days and has no backups. Use a paid PostgreSQL plan for durable public data and confirm current pricing first.
-- Every browser API call passes through a Vercel function. Monitor Vercel Hobby usage; Hobby is intended for personal, non-commercial projects.
-- Monitor Render bandwidth/build usage and Groq quota. Keep AI limits and fallback mode enabled.
-- Do not enable autoscaling or paid upgrades without a budget decision.
-- A Render restart removes active quiz sessions and in-memory limits/caches, while PostgreSQL accounts and completed statistics remain.
-
-## License and content notice
-
-No software license has been selected yet. Add one before inviting reuse or contributions. Movie titles and short dialogue excerpts can have separate intellectual-property considerations; inclusion in this portfolio catalog is not a claim that the material is public domain.
+**[🍿 Jouer à CineQuote AI](https://cine-quote-ai.vercel.app)**
