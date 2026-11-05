@@ -274,7 +274,7 @@ Server-side Vercel variables:
 | `RENDER_API_URL` | Public HTTPS Render service origin |
 | `PROXY_SHARED_SECRET` | Same value as Render |
 
-Leave `VITE_API_URL` unset in production. `front/api/[...path].ts` proxies `/api` requests and preserves status codes, cookies, response bodies, and important headers. `front/vercel.json` provides SPA refresh fallback after filesystem and API routes are checked.
+Leave `VITE_API_URL` unset in production. `front/vercel.json` routes `/api/:path*` to `front/api/proxy.ts` before applying the SPA fallback. The proxy preserves methods, query parameters, status codes, cookies, response bodies, and important headers.
 
 ## Hosting limitations and costs
 
