@@ -19,7 +19,7 @@ const genreLabel = (genre: Genre) => genre === 'all' ? 'All Genres' : genre === 
 export function DifficultySelect({ onSelect, onCustom, user, onAccount, onStats, onLogout }: Props) {
   const [availability, setAvailability] = useState<QuizAvailability[]>([])
   const [genre, setGenre] = useState<Genre>('all')
-  const [builder, setBuilder] = useState<GameBuilder>(null)
+  const [builder, setBuilder] = useState<GameBuilder>('classic')
   const [error, setError] = useState<string | null>(null)
   const [reload, setReload] = useState(0)
   const [customPrompt, setCustomPrompt] = useState('')
