@@ -1,0 +1,8 @@
+[
+  {
+    "film_title": "Nom exact du film",
+    "quote": "Citation exacte dans sa langue originale.",
+    "difficulty": "medium",
+    "genres": ["Comedy", "Science Fiction"]
+  }
+]

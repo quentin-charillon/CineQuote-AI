@@ -1,0 +1,591 @@
+[
+  {
+    "film_id": 2,
+    "film": "The Terminator",
+    "release_year": 1984,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 2,
+    "quote": "I'll be back.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 4,
+    "film": "The Wizard of Oz",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 17,
+    "quote": "Toto, I've a feeling we're not in Kansas anymore.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 4 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 6,
+    "film": "Taxi Driver",
+    "release_year": 1976,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 6,
+    "quote": "You talking to me?",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 10 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 7,
+    "film": "The Sixth Sense",
+    "release_year": 1999,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 7,
+    "quote": "I see dead people.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 9,
+    "film": "Casablanca",
+    "release_year": 1942,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 9,
+    "quote": "Here's looking at you, kid.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 5 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 9,
+    "film": "Casablanca",
+    "release_year": 1942,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 29,
+    "quote": "Louis, I think this is the beginning of a beautiful friendship.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 20 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 11,
+    "film": "Dirty Dancing",
+    "release_year": 1987,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 11,
+    "quote": "Nobody puts Baby in a corner.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 14,
+    "film": "Top Gun",
+    "release_year": 1986,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 14,
+    "quote": "I feel the need - the need for speed!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 15,
+    "film": "Gone with the Wind",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 15,
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 1 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 16,
+    "film": "On the Waterfront",
+    "release_year": 1954,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 16,
+    "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 3 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 17,
+    "film": "Sudden Impact",
+    "release_year": 1983,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 18,
+    "quote": "Go ahead, make my day.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 6 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 18,
+    "film": "Sunset Blvd.",
+    "release_year": 1950,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 19,
+    "quote": "All right, Mr. DeMille, I'm ready for my close-up.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 7 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 19,
+    "film": "All About Eve",
+    "release_year": 1950,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 20,
+    "quote": "Fasten your seatbelts. It's going to be a bumpy night.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 9 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 20,
+    "film": "Cool Hand Luke",
+    "release_year": 1967,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 21,
+    "quote": "What we've got here is failure to communicate.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 11 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 21,
+    "film": "Apocalypse Now",
+    "release_year": 1979,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 22,
+    "quote": "I love the smell of napalm in the morning.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 12 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 22,
+    "film": "Love Story",
+    "release_year": 1970,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 23,
+    "quote": "Love means never having to say you're sorry.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 13 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 23,
+    "film": "The Maltese Falcon",
+    "release_year": 1941,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 24,
+    "quote": "The stuff that dreams are made of.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 14 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 24,
+    "film": "In the Heat of the Night",
+    "release_year": 1967,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 25,
+    "quote": "They call me Mister Tibbs!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 16 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 25,
+    "film": "Citizen Kane",
+    "release_year": 1941,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 26,
+    "quote": "Rosebud.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 17 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 26,
+    "film": "White Heat",
+    "release_year": 1949,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 27,
+    "quote": "Made it, Ma! Top of the world!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 18 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 27,
+    "film": "Network",
+    "release_year": 1976,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 28,
+    "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 19 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 35,
+    "film": "Jaws",
+    "release_year": 1975,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 41,
+    "quote": "You're gonna need a bigger boat.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 60,
+    "film": "The Shining",
+    "release_year": 1980,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 71,
+    "quote": "Here's Johnny!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 67,
+    "film": "Terminator 2: Judgment Day",
+    "release_year": 1991,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 79,
+    "quote": "Hasta la vista, baby.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 75,
+    "film": "The Lord of the Rings: The Two Towers",
+    "release_year": 2002,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 88,
+    "quote": "My precious.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 87,
+    "film": "Titanic",
+    "release_year": 1997,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 101,
+    "quote": "I'm the king of the world!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 88,
+    "film": "Toy Story",
+    "release_year": 1995,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 103,
+    "quote": "You are a toy!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-toy-story-quotes"
+    ]
+  },
+  {
+    "film_id": 88,
+    "film": "Toy Story",
+    "release_year": 1995,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 104,
+    "quote": "That wasn't flying. That was falling with style.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-toy-story-quotes"
+    ]
+  },
+  {
+    "film_id": 95,
+    "film": "The Incredibles",
+    "release_year": 2004,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 123,
+    "quote": "No capes!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "film_id": 95,
+    "film": "The Incredibles",
+    "release_year": 2004,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 124,
+    "quote": "Honey ... where is my super suit?",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "film_id": 96,
+    "film": "Up",
+    "release_year": 2009,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 126,
+    "quote": "Adventure is out there!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "Removed from Easy because both mainstream movie familiarity and iconic quote recognition are mandatory.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  }
+]

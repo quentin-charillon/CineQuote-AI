@@ -1,0 +1,47 @@
+[
+  {
+    "film_title": "Apollo 13",
+    "release_year": 1995,
+    "reason": "no unique IMDb movie title/year match",
+    "candidate_ids": [
+      "tt0112384",
+      "tt6590506"
+    ]
+  },
+  {
+    "film_title": "Sunset Blvd.",
+    "release_year": 1950,
+    "reason": "no unique IMDb movie title/year match",
+    "candidate_ids": []
+  },
+  {
+    "film_title": "Dr. No",
+    "release_year": 1963,
+    "reason": "no unique IMDb movie title/year match",
+    "candidate_ids": []
+  },
+  {
+    "film_title": "The Pride of the Yankees",
+    "release_year": 1943,
+    "reason": "no unique IMDb movie title/year match",
+    "candidate_ids": []
+  },
+  {
+    "film_title": "Dracula",
+    "release_year": 1931,
+    "reason": "no unique IMDb movie title/year match",
+    "candidate_ids": [
+      "tt0021814",
+      "tt0021815"
+    ]
+  },
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "reason": "no unique IMDb movie title/year match",
+    "candidate_ids": [
+      "tt0117571",
+      "tt0176904"
+    ]
+  }
+]

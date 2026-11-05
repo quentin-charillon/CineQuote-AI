@@ -1,0 +1,78 @@
+[
+  {
+    "film_id": 28,
+    "film": "The Silence of the Lambs",
+    "release_year": 1991,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 30,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 39,
+    "film": "Forrest Gump",
+    "release_year": 1994,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 45,
+    "quote": "My mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 70,
+    "film": "Rocky",
+    "release_year": 1976,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 83,
+    "quote": "Yo, Adrian!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 96,
+    "film": "Up",
+    "release_year": 2009,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 126,
+    "quote": "Adventure is out there!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  }
+]

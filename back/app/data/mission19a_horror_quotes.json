@@ -1,0 +1,146 @@
+[
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "quote": "Do you like scary movies?",
+    "difficulty": "easy",
+    "source_url": "https://afisilver.afi.com/films/preview/archive/afipreview_77.pdf",
+    "source_name": "AFI Silver Issue 77: Scream program note",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "Psycho",
+    "release_year": 1960,
+    "quote": "We all go a little mad sometimes.",
+    "difficulty": "medium",
+    "source_url": "https://catalog.afi.com/Film/53260-PSYCHO",
+    "source_name": "AFI Catalog: Psycho",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "The Silence of the Lambs",
+    "release_year": 1991,
+    "quote": "I'm having an old friend for dinner.",
+    "difficulty": "medium",
+    "source_url": "https://catalog.afi.com/Film/55200-THE-SILENCE-OF-THE-LAMBS",
+    "source_name": "AFI Catalog: The Silence of the Lambs",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "The Exorcist",
+    "release_year": 1973,
+    "quote": "The power of Christ compels you.",
+    "difficulty": "medium",
+    "source_url": "https://catalog.afi.com/Film/54970-THE-EXORCIST",
+    "source_name": "AFI Catalog: The Exorcist",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "Night of the Living Dead",
+    "release_year": 1990,
+    "quote": "They're coming to get you, Barbara.",
+    "difficulty": "hard",
+    "source_url": "https://catalog.afi.com/Film/58630-NIGHT-OFTHELIVINGDEAD",
+    "source_name": "AFI Catalog: Night of the Living Dead (1990)",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "Night of the Living Dead",
+    "release_year": 1990,
+    "quote": "You came back.",
+    "difficulty": "hard",
+    "source_url": "https://catalog.afi.com/Film/58630-NIGHT-OFTHELIVINGDEAD",
+    "source_name": "AFI Catalog: Night of the Living Dead (1990)",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "Night of the Living Dead",
+    "release_year": 1990,
+    "quote": "Another one for the fire.",
+    "difficulty": "hard",
+    "source_url": "https://catalog.afi.com/Film/58630-NIGHT-OFTHELIVINGDEAD",
+    "source_name": "AFI Catalog: Night of the Living Dead (1990)",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "The Tingler",
+    "release_year": 1959,
+    "quote": "Scream! Scream for your life!",
+    "difficulty": "hard",
+    "source_url": "https://www.bfi.org.uk/features/where-begin-with-william-castle",
+    "source_name": "BFI: Where to begin with William Castle",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "The Shining",
+    "release_year": 1980,
+    "quote": "Redrum.",
+    "difficulty": "easy",
+    "source_url": "https://catalog.afi.com/Film/67203-THE-SHINING",
+    "source_name": "AFI Catalog: The Shining",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "The Shining",
+    "release_year": 1980,
+    "quote": "All work and no play makes Jack a dull boy.",
+    "difficulty": "easy",
+    "source_url": "https://catalog.afi.com/Film/67203-THE-SHINING",
+    "source_name": "AFI Catalog: The Shining",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2004,
+    "quote": "Hello... I want to play a game.",
+    "difficulty": "easy",
+    "source_url": "https://shop.lionsgate.com/products/saw-i-want-to-play-a-game-adult-t-shirt",
+    "source_name": "Official Lionsgate Saw collection",
+    "source_type": "official_studio"
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2004,
+    "quote": "Game over.",
+    "difficulty": "easy",
+    "source_url": "https://shop.lionsgate.com/collections/saw",
+    "source_name": "Official Lionsgate Saw collection",
+    "source_type": "official_studio"
+  },
+  {
+    "film_title": "It",
+    "release_year": 2017,
+    "quote": "You'll float too.",
+    "difficulty": "easy",
+    "source_url": "https://wbshop.com/collections/it",
+    "source_name": "Official Warner Bros. IT collection",
+    "source_type": "official_studio"
+  },
+  {
+    "film_title": "The Fly",
+    "release_year": 1986,
+    "quote": "Be afraid. Be very afraid.",
+    "difficulty": "medium",
+    "source_url": "https://www.bfi.org.uk/lists/10-great-horror-remakes",
+    "source_name": "BFI: 10 great horror remakes",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "A Quiet Place",
+    "release_year": 2018,
+    "quote": "There's nothing to be afraid of.",
+    "difficulty": "medium",
+    "source_url": "https://www.bfi.org.uk/sight-and-sound/reviews/quiet-place-review-masterly-evocation-silent-terror",
+    "source_name": "BFI Sight and Sound: A Quiet Place review",
+    "source_type": "film_institute"
+  },
+  {
+    "film_title": "A Quiet Place",
+    "release_year": 2018,
+    "quote": "Yes there is!",
+    "difficulty": "medium",
+    "source_url": "https://www.bfi.org.uk/sight-and-sound/reviews/quiet-place-review-masterly-evocation-silent-terror",
+    "source_name": "BFI Sight and Sound: A Quiet Place review",
+    "source_type": "film_institute"
+  }
+]

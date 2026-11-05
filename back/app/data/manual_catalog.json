@@ -1,0 +1,1129 @@
+[
+  {
+    "film_title": "Star Wars: A New Hope",
+    "quote": "May the Force be with you.",
+    "difficulty": "easy",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Star Wars: The Empire Strikes Back",
+    "quote": "Do. Or do not. There is no try.",
+    "difficulty": "easy",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Star Wars: The Empire Strikes Back",
+    "quote": "No, I am your father",
+    "difficulty": "easy",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Star Wars: Revenge of the Sith",
+    "quote": "You were the Chosen One!",
+    "difficulty": "easy",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Star Wars: Revenge of the Sith",
+    "quote": "You were my brother, Anakin!",
+    "difficulty": "easy",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Star Wars: Revenge of the Sith",
+    "quote": "Hello there!",
+    "difficulty": "medium",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Star Wars: Revenge of the Sith",
+    "quote": "Only a Sith deals in absolutes.",
+    "difficulty": "medium",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Star Wars: Revenge of the Sith",
+    "quote": "Unlimited power",
+    "difficulty": "hard",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Star Wars: Revenge of the Sith",
+    "quote": "I am the Senate!",
+    "difficulty": "easy",
+    "genres": ["Science Fiction"]
+  },
+  {
+    "film_title": "Harry Potter and the Philosopher's Stone",
+    "quote": "You're a wizard, Harry.",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Philosopher's Stone",
+    "quote": "Wingardium Leviosa!",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Philosopher's Stone",
+    "quote": "It's LeviOsa, not LeviosA",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Chamber of Secrets",
+    "quote": "Dobby is free.",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Prisoner of Azkaban",
+    "quote": "I solemnly swear that I am up to no good.",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Prisoner of Azkaban",
+    "quote": "Expecto Patronum!",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Goblet of Fire",
+    "quote": "Did you put your name in the Goblet of Fire?",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Deathly Hallows: Part 2",
+    "quote": "After all this time?” / “Always.",
+    "difficulty": "medium",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Prisoner of Azkaban",
+    "quote": "Mischief managed.",
+    "difficulty": "hard",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Half-Blood Prince",
+    "quote": "Why is it, when something happens, it is always you three?",
+    "difficulty": "medium",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Order of the Phoenix",
+    "quote": "I must not tell lies.",
+    "difficulty": "hard",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Harry Potter and the Deathly Hallows: Part 2",
+    "quote": "Not my daughter, you bitch!",
+    "difficulty": "medium",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "film_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "quote": "But you have heard of me",
+    "difficulty": "hard",
+    "genres": ["Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "quote": "Why is the rum gone?",
+    "difficulty": "medium",
+    "genres": ["Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "quote": "You best start believing in ghost stories, Miss Turner.?",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "quote": "This is the day you will always remember.",
+    "difficulty": "hard",
+    "genres": ["Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "Pirates of the Caribbean: Dead Man's Chest",
+    "quote": "“I've got a jar of dirt!.",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "quote": "I'm Captain Jack Sparrow..",
+    "difficulty": "easy",
+    "genres": ["Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "Jurassic Park",
+    "quote": "Welcome to Jurassic Park!",
+    "difficulty": "easy",
+    "genres": [ "Adventure", "action"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "quote": "You shall not pass!",
+    "difficulty": "easy",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "quote": "One does not simply walk into Mordor.",
+    "difficulty": "easy",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "quote": "You have my sword",
+    "difficulty": "hard",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "quote": "And my axe!",
+    "difficulty": "hard",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "quote": "Fly, you fools!",
+    "difficulty": "medium",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Two Towers",
+    "quote": "My precious.",
+    "difficulty": "easy",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Two Towers",
+    "quote": "They're taking the Hobbits to Isengard!",
+    "difficulty": "easy",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Two Towers",
+    "quote": "A red sun rises.",
+    "difficulty": "hard",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Two Towers",
+    "quote": "There is still hope",
+    "difficulty": "medium",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "quote": "For Frodo.",
+    "difficulty": "easy",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "quote": "I am no man.",
+    "difficulty": "hard",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "quote": "“You bow to no one.",
+    "difficulty": "hard",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "quote": "“For Gondor!",
+    "difficulty": "easy",
+    "genres": [ "Adventure", "action", "Fantasy"]
+  },
+  {
+    "film_title": "Back to the Future",
+    "quote": "Great Scott!",
+    "difficulty": "easy",
+    "genres": [ "Science Fiction", "Adventure", "comedy"]
+  },
+  {
+    "film_title": "Back to the Future",
+    "quote": "Roads? Where we're going, we don't need roads.",
+    "difficulty": "easy",
+    "genres": [ "Science Fiction", "Adventure", "comedy"]
+  },
+  {
+    "film_title": "Back to the Future",
+    "quote": "1.21 gigawatts!",
+    "difficulty": "medium",
+    "genres": [ "Science Fiction", "Adventure", "comedy"]
+  },
+  {
+    "film_title": "Back to the Future",
+    "quote": "Are you telling me you built a time machine...",
+    "difficulty": "easy",
+    "genres": [ "Science Fiction", "Adventure", "comedy"]
+  },
+  {
+    "film_title": "Back to the Future",
+    "quote": "Nobody calls me chicken",
+    "difficulty": "medium",
+    "genres": [ "Science Fiction", "Adventure", "comedy"]
+  },
+  {
+    "film_title": "Back to the Future Part II",
+    "quote": "Hoverboards don't work on water!",
+    "difficulty": "easy",
+    "genres": [ "Science Fiction", "Adventure", "comedy"]
+  },
+  {
+    "film_title": "Back to the Future Part III",
+    "quote": "Your future hasn't been written yet",
+    "difficulty": "easy",
+    "genres": [ "Science Fiction", "Adventure", "comedy"]
+  },
+  {
+    "film_title": "Back to the Future Part III",
+    "quote": "It's your kids, Marty!",
+    "difficulty": "easy",
+    "genres": [ "Science Fiction", "Adventure", "comedy"]
+  },
+  {
+    "film_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "quote": "For Narnia, and for Aslan!",
+    "difficulty": "easy",
+    "genres": [ "Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "quote": "Aslan is on the move.",
+    "difficulty": "easy",
+    "genres": [ "Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "quote": "Once a king or queen of ... always a king or queen.",
+    "difficulty": "easy",
+    "genres": [ "Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "quote": "He is not a tame lion",
+    "difficulty": "easy",
+    "genres": [ "Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "The Chronicles of Narnia: Prince Caspian",
+    "quote": "I am Prince Caspian",
+    "difficulty": "easy",
+    "genres": [ "Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "The Chronicles of Narnia: Prince Caspian",
+    "quote": "You may find ... a more savage place than you remember.",
+    "difficulty": "easy",
+    "genres": [ "Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "The Chronicles of Narnia: Prince Caspian",
+    "quote": "Things never happen the same way twice, dear one.",
+    "difficulty": "hard",
+    "genres": [ "Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "quote": "I am a mouse",
+    "difficulty": "hard",
+    "genres": [ "Fantasy", "Adventure", "action"]
+  },
+  {
+    "film_title": "Shrek",
+    "release_year": 2001,
+    "quote": "What are you doing in my swamp?",
+    "difficulty": "easy",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek",
+    "release_year": 2001,
+    "quote": "Ogres are like onions.",
+    "difficulty": "easy",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek",
+    "release_year": 2001,
+    "quote": "That'll do, Donkey. That'll do.",
+    "difficulty": "easy",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek",
+    "release_year": 2001,
+    "quote": "I'm making waffles!",
+    "difficulty": "medium",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek",
+    "release_year": 2001,
+    "quote": "Some of you may die.",
+    "difficulty": "medium",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek",
+    "release_year": 2001,
+    "quote": "Not the gumdrop buttons!",
+    "difficulty": "easy",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek 2",
+    "release_year": 2004,
+    "quote": "I need a hero!",
+    "difficulty": "hard",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek 2",
+    "release_year": 2004,
+    "quote": "I'm a real boy!",
+    "difficulty": "hard",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek 2",
+    "release_year": 2004,
+    "quote": "Are we there yet?",
+    "difficulty": "easy",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek the Third",
+    "release_year": 2007,
+    "quote": "I'm an ogre!",
+    "difficulty": "easy",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Shrek the Third",
+    "release_year": 2007,
+    "quote": "Where's the baby?",
+    "difficulty": "easy",
+    "genres": ["Animation", "Adventure", "Comedy", "Fantasy"]
+  },
+  {
+    "film_title": "Toy Story",
+    "release_year": 1995,
+    "quote": "To infinity and beyond!",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story",
+    "release_year": 1995,
+    "quote": "There's a snake in my boot!",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story",
+    "release_year": 1995,
+    "quote": "You are a toy!",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story",
+    "release_year": 1995,
+    "quote": "The claw!",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story",
+    "release_year": 1995,
+    "quote": "You've got a friend in me.",
+    "difficulty": "hard",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 2",
+    "release_year": 1999,
+    "quote": "You are a child's plaything!",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 2",
+    "release_year": 1999,
+    "quote": "I can't stop Andy from growing up.",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 2",
+    "release_year": 1999,
+    "quote": "You never forget kids like Emily or Andy.",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 3",
+    "release_year": 2010,
+    "quote": "So long, partner.",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 3",
+    "release_year": 2010,
+    "quote": "We stick together.",
+    "difficulty": "hard",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 3",
+    "release_year": 2010,
+    "quote": "Where's your kid now, Sheriff?",
+    "difficulty": "easy",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 4",
+    "release_year": 2019,
+    "quote": "I'm trash!",
+    "difficulty": "medium",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 4",
+    "release_year": 2019,
+    "quote": "I was made for soup, salad, maybe chili.",
+    "difficulty": "medium",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "Toy Story 4",
+    "release_year": 2019,
+    "quote": "She's gonna be okay.",
+    "difficulty": "hard",
+    "genres": ["Animation", "Comedy", "Adventure"]
+  },
+  {
+    "film_title": "The Lion King",
+    "release_year": 2019,
+    "quote": "Remember who you are..",
+    "difficulty": "easy",
+    "genres": ["Animation"]
+  },
+  {
+    "film_title": "The Lion King",
+    "release_year": 2019,
+    "quote": "Long live the king.",
+    "difficulty": "easy",
+    "genres": ["Animation"]
+  },
+  {
+    "film_title": "The Lion King",
+    "release_year": 2019,
+    "quote": "I'm gonna be a mighty king!",
+    "difficulty": "easy",
+    "genres": ["Animation"]
+  },
+  {
+    "film_title": "The Lion King",
+    "release_year": 2019,
+    "quote": "Hakuna Matata!",
+    "difficulty": "easy",
+    "genres": ["Animation"]
+  },
+  {
+    "film_title": "The Lion King",
+    "release_year": 2019,
+    "quote": "You must take your place in the Circle of Life.!",
+    "difficulty": "hard",
+    "genres": ["Animation"]
+  },
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "quote": "What's your favorite scary movie?",
+    "difficulty": "easy",
+    "genres": ["Horror", "Comedy"]
+  },
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "quote": "Do you like scary movies?",
+    "difficulty": "easy",
+    "genres": ["Horror", "Comedy"]
+  },
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "quote": "Hello, Sidney.",
+    "difficulty": "easy",
+    "genres": ["Horror", "Comedy"]
+  },
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "quote": "What's your favorite scary movie, Sidney?",
+    "difficulty": "easy",
+    "genres": ["Horror", "Comedy"]
+  },
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "quote": "Movies don't create psychos.",
+    "difficulty": "medium",
+    "genres": ["Horror", "Comedy"]
+  },
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "quote": "We all go a little mad sometimes.",
+    "difficulty": "medium",
+    "genres": ["Horror", "Comedy"]
+  },
+  {
+    "film_title": "Scream",
+    "release_year": 2022,
+    "quote": "It's an honor.",
+    "difficulty": "hard",
+    "genres": ["Horror", "Comedy"]
+  },
+  {
+    "film_title": "Halloween",
+    "release_year": 2018,
+    "quote": "Happy Halloween, Michael.",
+    "difficulty": "easy",
+    "genres": ["Horror", "Thriller"]
+  },
+  {
+    "film_title": "Halloween",
+    "release_year": 1978,
+    "quote": "It was the boogeyman.",
+    "difficulty": "easy",
+    "genres": ["Horror", "Thriller"]
+  },
+  {
+    "film_title": "Halloween",
+    "release_year": 2021,
+    "quote": "Evil dies tonight!",
+    "difficulty": "medium",
+    "genres": ["Horror", "Thriller"]
+  },
+  {
+    "film_title": "Halloween",
+    "release_year": 1978,
+    "quote": "The blackest eyes. The devil's eyes.",
+    "difficulty": "hard",
+    "genres": ["Horror", "Thriller"]
+  },
+  {
+    "film_title": "Halloween",
+    "release_year": 1978,
+    "quote": "Death has come to your little town, Sheriff.",
+    "difficulty": "medium",
+    "genres": ["Horror", "Thriller"]
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2004,
+    "quote": "I want to play a game.",
+    "difficulty": "easy",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2004,
+    "quote": "Game over.",
+    "difficulty": "easy",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2004,
+    "quote": "Most people are so ungrateful to be alive.",
+    "difficulty": "medium",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2004,
+    "quote": "Live or die. Make your choice.",
+    "difficulty": "easy",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2005,
+    "quote": "Oh yes, there will be blood.",
+    "difficulty": "medium",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2005,
+    "quote": "The game has begun.",
+    "difficulty": "easy",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2006,
+    "quote": "I forgive you.",
+    "difficulty": "hard",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Saw",
+    "release_year": 2006,
+    "quote": "You can't help them. They have to help themselves.",
+    "difficulty": "hard",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Final Destination",
+    "release_year": 2000,
+    "quote": "Death doesn't work that way.",
+    "difficulty": "medium",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Final Destination",
+    "release_year": 2000,
+    "quote": "You can't cheat death.",
+    "difficulty": "medium",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Final Destination",
+    "release_year": 2000,
+    "quote": "Death has a design.",
+    "difficulty": "hard",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Final Destination",
+    "release_year": 2003,
+    "quote": "Only new life can defeat death.",
+    "difficulty": "medium",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Final Destination",
+    "release_year": 2003,
+    "quote": "Death is still coming for us.",
+    "difficulty": "hard",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Final Destination",
+    "release_year": 2006,
+    "quote": "Death doesn't like to be cheated.",
+    "difficulty": "hard",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "Final Destination",
+    "release_year": 2006,
+    "quote": "You can't escape death.",
+    "difficulty": "hard",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "A Nightmare on Elm Street",
+    "release_year": 1984,
+    "quote": "I'm your boyfriend now, Nancy.",
+    "difficulty": "easy",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "A Nightmare on Elm Street",
+    "release_year": 1984,
+    "quote": "One, two, Freddy's coming for you.",
+    "difficulty": "easy",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "A Nightmare on Elm Street",
+    "release_year": 1984,
+    "quote": "Come to Freddy.",
+    "difficulty": "easy",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "A Nightmare on Elm Street",
+    "release_year": 1987,
+    "quote": "Welcome to prime time, bitch!",
+    "difficulty": "medium",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "A Nightmare on Elm Street",
+    "release_year": 1987,
+    "quote": "What's wrong, Joey? Feeling tongue-tied?",
+    "difficulty": "easy",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "A Nightmare on Elm Street",
+    "release_year": 2003,
+    "quote": "Welcome to my world, bitch!",
+    "difficulty": "medium",
+    "genres": ["Horror"]
+  },
+  {
+    "film_title": "A Nightmare on Elm Street",
+    "release_year": 2003,
+    "quote": "I am eternal.",
+    "difficulty": "hard",
+    "genres": ["Horror"]
+  },
+  {"film_title":"Friday the 13th","release_year":1980,"quote":"Kill her, Mommy! Kill her!","difficulty":"medium","genres":["Horror","Thriller"]},
+  {"film_title":"Friday the 13th","release_year":1980,"quote":"His name was Jason.","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"Friday the 13th","release_year":1980,"quote":"You see, Jason was my son.","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"Friday the 13th","release_year":1980,"quote":"Jason's alive!","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"Friday the 13th","release_year":1980,"quote":"Jason belongs in hell.","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"Friday the 13th","release_year":1980,"quote":"Jason Voorhees is dead.","difficulty":"medium","genres":["Horror","Thriller"]},
+
+  {"film_title":"Child's Play","release_year":1988,"quote":"Hi, I'm Chucky. Wanna play?","difficulty":"easy","genres":["Horror","Comedy"]},
+  {"film_title":"Child's Play","release_year":1988,"quote":"Ade due Damballa.","difficulty":"easy","genres":["Horror","Comedy"]},
+  {"film_title":"Child's Play","release_year":1988,"quote":"You stupid bitch!","difficulty":"medium","genres":["Horror","Comedy"]},
+  {"film_title":"Child's Play","release_year":1988,"quote":"Sorry, Jack. Chucky's back!","difficulty":"easy","genres":["Horror","Comedy"]},
+  {"film_title":"Child's Play","release_year":1988,"quote":"How's it hanging, Phil?","difficulty":"medium","genres":["Horror","Comedy"]},
+  {"film_title":"Child's Play","release_year":1988,"quote":"A true classic never goes out of style.","difficulty":"medium","genres":["Horror","Comedy"]},
+  {"film_title":"Child's Play","release_year":1988,"quote":"I love you, Chucky.","difficulty":"easy","genres":["Horror","Comedy"]},
+  {"film_title":"Child's Play","release_year":1988,"quote":"I'm Chucky, the killer doll!","difficulty":"easy","genres":["Horror","Comedy"]},
+  {"film_title":"Child's Play","release_year":1988,"quote":"I am not ashamed to be a killer!","difficulty":"hard","genres":["Horror","Comedy"]},
+
+  {"film_title":"The Conjuring","release_year":2013,"quote":"My name is Ed Warren.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"The Conjuring","release_year":2013,"quote":"It's an inhuman spirit.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"The Conjuring","release_year":2013,"quote":"There's something horrible happening in my house.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"The Conjuring","release_year":2013,"quote":"My name is Valak.","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"The Conjuring","release_year":2013,"quote":"This is my home!","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"The Conjuring","release_year":2013,"quote":"The crooked man.","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"The Conjuring","release_year":2013,"quote":"The devil made me do it.","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"The Conjuring","release_year":2013,"quote":"I think I hurt someone.","difficulty":"hard","genres":["Horror"]},
+
+  {"film_title":"Insidious","release_year":2010,"quote":"It's not the house that's haunted. It's your son.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"Insidious","release_year":2010,"quote":"Follow my voice, Dalton.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"Insidious","release_year":2010,"quote":"Leave this vessel!","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"Insidious","release_year":2010,"quote":"In my line of work things tend to happen when it gets dark.","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"Insidious","release_year":2010,"quote":"Hi. I'm Elise. You must be Lorraine.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"Insidious","release_year":2010,"quote":"The code word is Quesadilla.","difficulty":"hard","genres":["Horror"]},
+
+  {"film_title":"The Exorcist","release_year":1973,"quote":"The power of Christ compels you!","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"The Exorcist","release_year":1973,"quote":"What an excellent day for an exorcism.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"The Exorcist","release_year":1973,"quote":"I'm the Devil.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"The Exorcist","release_year":1973,"quote":"You're going to die up there.","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"The Exorcist","release_year":1973,"quote":"I'm not Regan.","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"The Exorcist","release_year":1973,"quote":"Why her? Why this girl?","difficulty":"hard","genres":["Horror"]},
+
+  {"film_title":"The Shining","release_year":1980,"quote":"Here's Johnny!","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"The Shining","release_year":1980,"quote":"Redrum! Redrum!","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"The Shining","release_year":1980,"quote":"Come and play with us, Danny.","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"The Shining","release_year":1980,"quote":"Wendy, I'm home.","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"The Shining","release_year":1980,"quote":"Danny isn't here, Mrs. Torrance.","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"The Shining","release_year":1980,"quote":"Forever... and ever... and ever.","difficulty":"medium","genres":["Horror","Thriller"]},
+  {"film_title":"The Shining","release_year":1980,"quote":"Little pigs, little pigs, let me come in!","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"The Shining","release_year":1980,"quote":"I'm just going to bash your brains in!","difficulty":"hard","genres":["Horror","Thriller"]},
+  {"film_title":"The Shining","release_year":1980,"quote":"All work and no play makes Jack a dull boy","difficulty":"easy","genres":["Horror","Thriller"]},
+
+  {"film_title":"The Ring","release_year":2002,"quote":"Seven days.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"The Ring","release_year":2002,"quote":"You weren't supposed to help her.","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"The Ring","release_year":2002,"quote":"She never sleeps.","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"The Ring","release_year":2002,"quote":"But I do, and I'm sorry. It won't stop.","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"The Ring","release_year":2002,"quote":"I don't make them, I see them.","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"The Ring","release_year":2002,"quote":"My wife was not supposed to have a child!","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"The Ring","release_year":2002,"quote":"She just wanted to be heard.","difficulty":"hard","genres":["Horror"]},
+
+  {"film_title":"Sinister","release_year":2012,"quote":"Don't worry, Daddy. I'll make you famous again.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"Sinister","release_year":2012,"quote":"Thank you very much, Deputy So And So!","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"Sinister","release_year":2012,"quote":"It's the missing kids!","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"Sinister","release_year":2012,"quote":"You came back and left the box... why?","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"Sinister","release_year":2012,"quote":"Leave town and never look back.","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"Sinister","release_year":2012,"quote":"That's okay, you keep it.","difficulty":"hard","genres":["Horror"]},
+
+  {"film_title":"It","release_year":2017,"quote":"We all float down here.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"You'll float too!","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"Hiya, Georgie!","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"I'm Pennywise, the Dancing Clown.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"Tasty, tasty, beautiful fear.","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"I'm not afraid of you!","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"For 27 years, I dreamt of you.","difficulty":"easy","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"I am the eater of worlds!","difficulty":"hard","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"I know your secret!","difficulty":"medium","genres":["Horror"]},
+  {"film_title":"It","release_year":2017,"quote":"Beep-beep, motherfucker!","difficulty":"hard","genres":["Horror"]},
+
+  {"film_title":"The Grudge","release_year":2004,"quote":"Krrrrrrrrrrrr...","difficulty":"easy","genres":["Horror"]},
+
+  {"film_title":"Very Bad Trip","release_year":2009,"quote":"There's a tiger in the bathroom!","difficulty":"easy","genres":["Comedy"]},
+  {"film_title":"Very Bad Trip","release_year":2009,"quote":"We fucked up.","difficulty":"medium","genres":["Comedy"]},
+  {"film_title":"Very Bad Trip","release_year":2009,"quote":"Not at the table, Carlos.","difficulty":"easy","genres":["Comedy"]},
+  {"film_title":"Very Bad Trip","release_year":2009,"quote":"I didn't know they gave out rings at the Holocaust.","difficulty":"medium","genres":["Comedy"]},
+  {"film_title":"Very Bad Trip","release_year":2009,"quote":"It's not a purse, it's a satchel.","difficulty":"hard","genres":["Comedy"]},
+  {"film_title":"Very Bad Trip","release_year":2009,"quote":"Paging Dr. Faggot!","difficulty":"hard","genres":["Comedy"]},
+  {"film_title":"Very Bad Trip","release_year":2009,"quote":"I tend to think of myself as a one-man wolf pack.","difficulty":"hard","genres":["Comedy"]},
+  {"film_title":"Very Bad Trip","release_year":2009,"quote":"But you guys might not know this, but I consider myself a bit of a loner.","difficulty":"easy","genres":["Comedy"]},
+
+  {"film_title":"Scary Movie","release_year":2000,"quote":"WAZZZZUP!","difficulty":"easy","genres":["Comedy"]},
+  {"film_title":"Scary Movie","release_year":2000,"quote":"Run, bitch, run!","difficulty":"easy","genres":["Comedy"]},
+  {"film_title":"Scary Movie","release_year":2000,"quote":"Take my strong hand!","difficulty":"medium","genres":["Comedy"]},
+  {"film_title":"Scary Movie","release_year":2000,"quote":"Nothing. Just chillin'. Killin'.","difficulty":"hard","genres":["Comedy"]},
+  {"film_title":"Scary Movie","release_year":2000,"quote":"I said a dollar, bitch.","difficulty":"hard","genres":["Comedy"]},
+  {"film_title":"Scary Movie","release_year":2000,"quote":"Lunch is not a class, Shorty.","difficulty":"easy","genres":["Comedy"]},
+  {"film_title":"Scary Movie","release_year":2000,"quote":"It would have just been you if you had just shut the","difficulty":"hard","genres":["Comedy"]},
+
+  {"film_title":"Babysitting","release_year":2014,"quote":"Si on te demande ce qui s'est passé, tu dis que tu t'es fait attaquer par Greenpeace.","difficulty":"easy","genres":["Comedy"]},
+  {"film_title":"Babysitting","release_year":2014,"quote":"Bah ça se fait pas pour Gollum !","difficulty":"hard","genres":["Comedy"]},
+  {"film_title":"Babysitting","release_year":2014,"quote":"T'es venu la semaine dernière ?","difficulty":"hard","genres":["Comedy"]},
+  {"film_title":"Babysitting","release_year":2014,"quote":"Si tu veux voir un animal préhistorique, t'as qu'à filmer ta grand-mère.","difficulty":"hard","genres":["Comedy"]},
+  {"film_title":"Babysitting","release_year":2014,"quote":"Oui, c'est Doudou, salope.","difficulty":"hard","genres":["Comedy"]},
+
+  {"film_title":"Interstellar","release_year":2014,"quote":"Mankind was born on Earth. It was never meant to die here.","difficulty":"easy","genres":["Science Fiction"]},
+  {"film_title":"Interstellar","release_year":2014,"quote":"Do not go gentle into that good night.","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"Interstellar","release_year":2014,"quote":"Stay.","difficulty":"easy","genres":["Science Fiction"]},
+  {"film_title":"Interstellar","release_year":2014,"quote":"No, no, no!","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"Interstellar","release_year":2014,"quote":"It was you. You were my ghost.","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"Interstellar","release_year":2014,"quote":"I'm not afraid of death. I'm an old physicist. I'm afraid of time.","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"Interstellar","release_year":2014,"quote":"Gravity can cross the dimensions, including time.","difficulty":"easy","genres":["Science Fiction"]},
+  {"film_title":"Interstellar","release_year":2014,"quote":"Cooper, this is no time for caution.","difficulty":"medium","genres":["Science Fiction"]},
+
+  {"film_title":"The Matrix","release_year":1999,"quote":"There is no spoon.","difficulty":"medium","genres":["Science Fiction"]},
+  {"film_title":"The Matrix","release_year":1999,"quote":"Welcome to the real world.","difficulty":"easy","genres":["Science Fiction"]},
+  {"film_title":"The Matrix","release_year":1999,"quote":"Dodge this.","difficulty":"medium","genres":["Science Fiction"]},
+  {"film_title":"The Matrix","release_year":1999,"quote":"Follow the white rabbit.","difficulty":"medium","genres":["Science Fiction"]},
+  {"film_title":"The Matrix","release_year":1999,"quote":"My name is Neo.","difficulty":"medium","genres":["Science Fiction"]},
+  {"film_title":"The Matrix","release_year":1999,"quote":"Mr. Anderson.","difficulty":"medium","genres":["Science Fiction"]},
+  {"film_title":"The Matrix","release_year":1999,"quote":"He's beginning to believe.","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"The Matrix","release_year":1999,"quote":"I know kung fu.","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"The Matrix","release_year":1999,"quote":"Ignorance is bliss.","difficulty":"hard","genres":["Science Fiction"]},
+
+  {"film_title":"Avatar","release_year":2009,"quote":"I see you.","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"Avatar","release_year":2009,"quote":"You are not in Kansas anymore.","difficulty":"easy","genres":["Science Fiction"]},
+  {"film_title":"Avatar","release_year":2009,"quote":"This is our land!","difficulty":"medium","genres":["Science Fiction"]},
+  {"film_title":"Avatar","release_year":2009,"quote":"You are like a baby.","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"Avatar","release_year":2009,"quote":"My cup is empty.","difficulty":"hard","genres":["Science Fiction"]},
+  {"film_title":"Avatar","release_year":2009,"quote":"Sometimes your whole life boils down to one insane move.","difficulty":"medium","genres":["Science Fiction"]},
+
+  {"film_title":"Se7en","release_year":1995,"quote":"What's in the box?!","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"Se7en","release_year":1995,"quote":"Detective! Detective! DETECTIVE!","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Se7en","release_year":1995,"quote":"I'm setting the example.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Se7en","release_year":1995,"quote":"Ernest Hemingway once wrote...","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Se7en","release_year":1995,"quote":"The world is a fine place...","difficulty":"hard","genres":["Thriller"]},
+  {"film_title":"Se7en","release_year":1995,"quote":"It's impressive to see a man feeding off his emotions.","difficulty":"hard","genres":["Thriller"]},
+
+  {"film_title":"Fight Club","release_year":1999,"quote":"The first rule of Fight Club is: you do not talk about Fight Club.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"The second rule of Fight Club is: you DO NOT talk about Fight Club.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"I am Jack's complete lack of surprise.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"His name is Robert Paulson.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"You met me at a very strange time in my life.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"This is your life, and it's ending one minute at a time.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"It's only after we've lost everything that we're free to do anything.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"You are not your job.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"I want you to hit me as hard as you can.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Fight Club","release_year":1999,"quote":"I am Jack's smirking revenge.","difficulty":"medium","genres":["Thriller"]},
+
+  {"film_title":"Shutter Island","release_year":2010,"quote":"Which would be worse: to live as a monster, or to die as a good man","difficulty":"easy","genres":["Thriller"]},
+
+  {"film_title":"American Psycho","release_year":2000,"quote":"I have to return some videotapes.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"Do you like Huey Lewis and the News?","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"Let's see Paul Allen's card.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"Impressive. Very nice.","difficulty":"hard","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"Now let's see Paul Allen's.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"There is an idea of a Patrick Bateman.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"I simply am not there.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"Don't just stare at it. Eat it.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"I need to engage in homicidal behavior on a massive scale.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"This confession has meant nothing.","difficulty":"hard","genres":["Thriller"]},
+  {"film_title":"American Psycho","release_year":2000,"quote":"I have all the characteristics of a human being.","difficulty":"hard","genres":["Thriller"]},
+
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"A census taker once tried to test me.","difficulty":"hard","genres":["Thriller"]},
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"I ate his liver with some fava beans.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"Well, Clarice, have the lambs stopped screaming?","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"It puts the lotion on its skin.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"Or else it gets the hose again.","difficulty":"hard","genres":["Thriller"]},
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"Quid pro quo.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"I'm having an old friend for dinner.","difficulty":"hard","genres":["Thriller"]},
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"People will say we're in love.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"The Silence of the Lambs","release_year":1991,"quote":"Tell me, Clarice, have the lambs stopped screaming?","difficulty":"easy","genres":["Thriller"]},
+
+  {"film_title":"Joker","release_year":2019,"quote":"You get what you fucking deserve!","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Joker","release_year":2019,"quote":"Can you introduce me as J...?","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"Joker","release_year":2019,"quote":"I used to think that my life was a tragedy, but now I realize, it's a comedy.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"Joker","release_year":2019,"quote":"Is it just me, or is it getting crazier out there?","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"Joker","release_year":2019,"quote":"All I have are negative thoughts.","difficulty":"hard","genres":["Thriller"]},
+
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"Why so serious?","difficulty":"medium","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"You either die a hero, or you live long enough to see yourself become the villain.","difficulty":"easy","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"Let's put a smile on that face!","difficulty":"easy","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"I'm not wearing hockey pads.","difficulty":"easy","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"Some men just want to watch the world burn.","difficulty":"medium","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"I'm an agent of chaos.","difficulty":"medium","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"If you're good at something, never do it for free.","difficulty":"hard","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"Do you want to know how I got these scars?","difficulty":"hard","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"I believe whatever doesn't kill you simply makes you stranger.","difficulty":"medium","genres":["Thriller","Action"]},
+  {"film_title":"The Dark Knight","release_year":2008,"quote":"And here we go.","difficulty":"hard","genres":["Thriller","Action"]},
+
+  {"film_title":"The Sixth Sense","release_year":1999,"quote":"I see dead people.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"The Sixth Sense","release_year":1999,"quote":"They don't know they're dead.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"The Sixth Sense","release_year":1999,"quote":"They only see what they want to see.","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"The Sixth Sense","release_year":1999,"quote":"Sometimes I see things.","difficulty":"easy","genres":["Thriller"]},
+  {"film_title":"The Sixth Sense","release_year":1999,"quote":"How often do you see them?","difficulty":"medium","genres":["Thriller"]},
+  {"film_title":"The Sixth Sense","release_year":1999,"quote":"All the time.","difficulty":"hard","genres":["Thriller"]},
+  {"film_title":"The Sixth Sense","release_year":1999,"quote":"You ever feel the prickly things on the back of your neck?","difficulty":"hard","genres":["Thriller"]},
+
+  {"film_title":"The Others","release_year":2001,"quote":"Are you mad? I am your daughter.","difficulty":"medium","genres":["Horror","Thriller"]},
+  {"film_title":"The Others","release_year":2001,"quote":"Sometimes the world of the living gets mixed up with the world of the dead.","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"The Others","release_year":2001,"quote":"There are things that your mother doesn't want to hear.","difficulty":"easy","genres":["Horror","Thriller"]},
+  {"film_title":"The Others","release_year":2001,"quote":"This house is ours!","difficulty":"easy","genres":["Horror","Thriller"]},
+
+  {"film_title":"The Terminator","release_year":1984,"quote":"I'll be back.","difficulty":"easy","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"Hasta la vista, baby.","difficulty":"easy","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"Come with me if you want to live.","difficulty":"easy","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"You're terminated, fucker!","difficulty":"easy","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"I need your clothes, your boots and your motorcycle.","difficulty":"medium","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"No problemo.","difficulty":"hard","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"I know now why you cry.","difficulty":"medium","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"It's in your nature to destroy yourselves.","difficulty":"hard","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"He'll live.","difficulty":"hard","genres":["Action"]},
+  {"film_title":"The Terminator","release_year":1984,"quote":"Terminated.","difficulty":"medium","genres":["Action"]},
+
+  {"film_title":"Top Gun","release_year":1986,"quote":"I feel the need... the need for speed!","difficulty":"easy","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"Talk to me, Goose.","difficulty":"easy","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"You can be my wingman anytime.","difficulty":"easy","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"Bullshit! You can be mine.","difficulty":"medium","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"Take me to bed or lose me forever.","difficulty":"medium","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"It's not the plane, it's the pilot.","difficulty":"easy","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"Don't think. Just do.","difficulty":"hard","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"It's time to let go.","difficulty":"hard","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"You told me not to think!","difficulty":"medium","genres":["Action"]},
+  {"film_title":"Top Gun","release_year":1986,"quote":"The future is coming, and you're not in it.","difficulty":"medium","genres":["Action"]},
+
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"Skadoosh!","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"There is no secret ingredient.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"Yesterday is history, tomorrow is a mystery...","difficulty":"medium","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"There are no accidents.","difficulty":"medium","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"I'm the big fat panda.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"There is no charge for awesomeness.","difficulty":"medium","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"My fist hungers for justice.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"Inner peace.","difficulty":"hard","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"One often meets his destiny...","difficulty":"hard","genres":["Animation"]},
+  {"film_title":"Kung Fu Panda","release_year":2008,"quote":"I'm going to need a hat.","difficulty":"medium","genres":["Animation"]},
+
+  {"film_title":"Madagascar","release_year":2005,"quote":"Just smile and wave, boys. Smile and wave.","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Madagascar","release_year":2005,"quote":"Kowalski, progress report!","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Madagascar","release_year":2005,"quote":"Oh, Sugar Honey Ice Tea!","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Madagascar","release_year":2005,"quote":"Well, this sucks.","difficulty":"hard","genres":["Animation","Comedy"]},
+  {"film_title":"Madagascar","release_year":2005,"quote":"If a zebra's in the zone, leave him alone.","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Madagascar","release_year":2005,"quote":"I'm ten years old.","difficulty":"hard","genres":["Animation","Comedy"]},
+  {"film_title":"Madagascar","release_year":2005,"quote":"Today we're gonna blow this dump.","difficulty":"medium","genres":["Animation","Comedy"]},
+  {"film_title":"Madagascar","release_year":2005,"quote":"What kind of zoo is this?","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Madagascar","release_year":2005,"quote":"I like to move it move it.","difficulty":"easy","genres":["Animation","Comedy"]},
+
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"Just keep swimming.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"Fish are friends, not food.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"Mine! Mine! Mine!","difficulty":"medium","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"P. Sherman, 42 Wallaby Way, Sydney.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"Sharkbait!","difficulty":"medium","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"All drains lead to the ocean, kid.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"I'm H2O intolerant.","difficulty":"hard","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"What would Dory do?","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"I suffer from short-term remembory loss.","difficulty":"hard","genres":["Animation"]},
+  {"film_title":"Finding Nemo","release_year":2003,"quote":"Sigourney Weaver is going to help us!","difficulty":"medium","genres":["Animation"]},
+
+  {"film_title":"Ice Age","release_year":2002,"quote":"We're gonna live! We're gonna die!","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Ice Age","release_year":2002,"quote":"Call me Squid.","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Ice Age","release_year":2002,"quote":"I'm not going extinct!","difficulty":"medium","genres":["Animation","Comedy"]},
+  {"film_title":"Ice Age","release_year":2002,"quote":"Please tell me it's not our idiot.","difficulty":"medium","genres":["Animation","Comedy"]},
+  {"film_title":"Ice Age","release_year":2002,"quote":"The name's Buck. Short for Buckminster. Long for Buh.","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Ice Age","release_year":2002,"quote":"I don't speak wind.","difficulty":"hard","genres":["Animation","Comedy"]},
+  {"film_title":"Ice Age","release_year":2002,"quote":"Always listen to Buck!","difficulty":"easy","genres":["Animation","Comedy"]},
+  {"film_title":"Ice Age","release_year":2002,"quote":"That's a lot of aloneness.","difficulty":"hard","genres":["Animation","Comedy"]},
+  {"film_title":"Ice Age","release_year":2002,"quote":"This... is the end of Sid the sloth...","difficulty":"easy","genres":["Animation","Comedy"]},
+
+  {"film_title":"Cars","release_year":2006,"quote":"Ka-chow!","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"I am speed.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"Float like a Cadillac, sting like a Beemer.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"Turn right to go left.","difficulty":"easy","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"It's just an empty cup.","difficulty":"hard","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"He did WHAT in his cup?","difficulty":"hard","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"Pit stop!","difficulty":"medium","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"I'm tellin' you, man, every third blink is slower.","difficulty":"hard","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"Tow Mater, average intelligence.","difficulty":"medium","genres":["Animation"]},
+  {"film_title":"Cars","release_year":2006,"quote":"Now that's a scoop of ice cream.","difficulty":"hard","genres":["Animation"]},
+
+  {"film_title":"La La Land","release_year":2016,"quote":"I'm always gonna love you.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"People love what other people are passionate about.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"They worship everything and they value nothing.","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"I guess I'll see you in the movies.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"Maybe it means something.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"I hate jazz.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"This is not your dream.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"Maybe I'm not good enough!","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"I'm letting life hit me until it gets tired.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"La La Land","release_year":2016,"quote":"I thought it was just Kenny G.","difficulty":"easy","genres":["Romance"]},
+
+  {"film_title":"Grease","release_year":1978,"quote":"Tell me about it, stud.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"That's my name, don't wear it out.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"Peachy keen, jellybean.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"I don't like parents.","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"Nah, she looks too pure to be pink!","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"Beauty is pain.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"A hickie from Kenickie is like a Hallmark card.","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"I wish I never laid eyes on you!","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"No, you can still see your face.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Grease","release_year":1978,"quote":"If you can't be an athlete, be an athletic supporter.","difficulty":"medium","genres":["Romance"]},
+
+  {"film_title":"Titanic","release_year":1997,"quote":"I'm the king of the world!","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"I'll never let go, Jack.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"Draw me like one of your French girls.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"You jump, I jump, remember?","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"I'm flying, Jack!","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"It's been 84 years.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"To make each day count.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"To the stars.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"I'd rather be his whore than your wife.","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Titanic","release_year":1997,"quote":"He does landscapes.","difficulty":"hard","genres":["Romance"]},
+
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"The greatest thing you'll ever learn...","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"Tell our story, Christian.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"The Moulin Rouge is my home.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"The show must go on, Satine.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"We're creatures of the underworld.","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"Because she doesn't love you!","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"I'm a courtesan.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"I'm a writer.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"No, being on the street, that's terrible.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Moulin Rouge!","release_year":2001,"quote":"You're gonna be bad for business, I can tell.","difficulty":"hard","genres":["Romance"]},
+
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"You wait 20 years for a dad and then three come along at once.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"Better be a wide aisle!","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"I'm Bright. Harry Bright.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"You couldn't have. I don't know which one it is.","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"Well, then, grow back down again!","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"And I haven't slept with hundreds of men.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"I'm old enough to be your mother.","difficulty":"medium","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"I've invited my dad to my wedding.","difficulty":"easy","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"Somebody up there has got it in for me.","difficulty":"hard","genres":["Romance"]},
+  {"film_title":"Mamma Mia!","release_year":2008,"quote":"It's my stag do - my last night of freedom.","difficulty":"hard","genres":["Romance"]},
+
+  {"film_title":"The Green Mile","release_year":1999,"quote":"I'm tired, boss.","difficulty":"easy","genres":["Fantasy"]},
+  {"film_title":"The Green Mile","release_year":1999,"quote":"Mostly I'm tired of people being ugly to each other.","difficulty":"medium","genres":["Fantasy"]},
+  {"film_title":"The Green Mile","release_year":1999,"quote":"I's afraid of the dark.","difficulty":"easy","genres":["Fantasy"]},
+  {"film_title":"The Green Mile","release_year":1999,"quote":"You can't hide what's in your heart.","difficulty":"medium","genres":["Fantasy"]},
+  {"film_title":"The Green Mile","release_year":1999,"quote":"Like the drink, only not spelled the same.","difficulty":"medium","genres":["Fantasy"]},
+  {"film_title":"The Green Mile","release_year":1999,"quote":"Just to help.","difficulty":"medium","genres":["Fantasy"]},
+  {"film_title":"The Green Mile","release_year":1999,"quote":"He kill them wi' their love.","difficulty":"hard","genres":["Fantasy"]},
+  {"film_title":"The Green Mile","release_year":1999,"quote":"Awful tired now, boss. Dog tired.","difficulty":"easy","genres":["Fantasy"]}
+]

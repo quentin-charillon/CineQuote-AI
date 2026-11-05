@@ -1,0 +1,23 @@
+[
+  {
+    "film_title": "Scream",
+    "release_year": 1996,
+    "genre": "Horror",
+    "source_url": "https://www.imdb.com/title/tt0117571/",
+    "external_genre_id": "Horror"
+  },
+  {
+    "film_title": "Dracula",
+    "release_year": 1931,
+    "genre": "Horror",
+    "source_url": "https://www.imdb.com/title/tt0021814/",
+    "external_genre_id": "Horror"
+  },
+  {
+    "film_title": "The Sixth Sense",
+    "release_year": 1999,
+    "genre": "Horror",
+    "source_url": "https://www.rottentomatoes.com/m/sixth_sense",
+    "external_genre_id": "Horror"
+  }
+]

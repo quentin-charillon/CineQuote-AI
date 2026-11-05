@@ -1,0 +1,522 @@
+[
+  {
+    "quote_id": 2,
+    "quote": "I'll be back.",
+    "film": "The Terminator",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 37; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 37",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 4,
+    "quote": "There's no place like home.",
+    "film": "The Wizard of Oz",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 23; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 23",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 7,
+    "quote": "I see dead people.",
+    "film": "The Sixth Sense",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 44; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 44",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 8,
+    "quote": "Show me the money!",
+    "film": "Jerry Maguire",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 25; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 25",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 10,
+    "quote": "Houston, we have a problem.",
+    "film": "Apollo 13",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 50; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 50",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 11,
+    "quote": "Nobody puts Baby in a corner.",
+    "film": "Dirty Dancing",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 98; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 98",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 14,
+    "quote": "I feel the need - the need for speed!",
+    "film": "Top Gun",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 94; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 94",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 30,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "film": "The Silence of the Lambs",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 21; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 21",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 31,
+    "quote": "Bond. James Bond.",
+    "film": "Dr. No",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 22; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 22",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 32,
+    "quote": "I am big! It's the pictures that got small.",
+    "film": "Sunset Blvd.",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 24; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 24",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 33,
+    "quote": "Why don't you come up sometime and see me?",
+    "film": "She Done Him Wrong",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 26; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 26",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 34,
+    "quote": "I'm walking here! I'm walking here!",
+    "film": "Midnight Cowboy",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 27; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 27",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 35,
+    "quote": "Play it, Sam. Play 'As Time goes By.'",
+    "film": "Casablanca",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 28; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 28",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 36,
+    "quote": "I want to be alone.",
+    "film": "Grand Hotel",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 30; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 30",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 37,
+    "quote": "After all, tomorrow is another day!",
+    "film": "Gone with the Wind",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 31; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 31",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 38,
+    "quote": "Round up the usual suspects.",
+    "film": "Casablanca",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 32; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 32",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 39,
+    "quote": "I'll have what she's having.",
+    "film": "When Harry Met Sally...",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 33; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 33",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 40,
+    "quote": "You know how to whistle, don't you, Steve? You just put your lips together and blow.",
+    "film": "To Have and Have Not",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "AFI rank 34; culturally notable, but outside the deliberately narrow top-20 Easy band.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 34",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 64,
+    "quote": "Say \"hello\" to my little friend!",
+    "film": "Scarface",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 61; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 61",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 65,
+    "quote": "What a dump.",
+    "film": "Beyond the Forest",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 62; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 62",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 66,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "film": "The Graduate",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 63; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 63",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 67,
+    "quote": "Gentlemen, you can't fight in here! This is the War Room!",
+    "film": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 64; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 64",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 68,
+    "quote": "Elementary, my dear Watson.",
+    "film": "The Adventures of Sherlock Holmes",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 65; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 65",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 69,
+    "quote": "Take your stinking paws off me, you damned dirty ape.",
+    "film": "Planet of the Apes",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 66; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 66",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 70,
+    "quote": "Of all the gin joints in all the towns in all the world, she walks into mine.",
+    "film": "Casablanca",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "hard",
+    "rationale": "AFI rank 67; AFI-listed but lower-ranked, so attribution is treated as deeper cinema knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "AFI rank 67",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "quote_id": 103,
+    "quote": "You are a toy!",
+    "film": "Toy Story",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "rationale": "Frequently cited confrontation line strongly associated with the film.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-toy-story-quotes"
+    ]
+  },
+  {
+    "quote_id": 104,
+    "quote": "That wasn't flying. That was falling with style.",
+    "film": "Toy Story",
+    "current_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "rationale": "Frequently repeated line strongly associated with the film.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-toy-story-quotes"
+    ]
+  },
+  {
+    "quote_id": 108,
+    "quote": "Kitty!",
+    "film": "Monsters, Inc.",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "rationale": "One-word contextual dialogue is not attributable without deep film knowledge.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-monsters-inc-quotes"
+    ]
+  },
+  {
+    "quote_id": 110,
+    "quote": "Put that thing back where it came from or so help me!",
+    "film": "Monsters, Inc.",
+    "current_difficulty": "hard",
+    "proposed_difficulty": "medium",
+    "rationale": "Recognizable scene dialogue for viewers familiar with the film.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-monsters-inc-quotes"
+    ]
+  },
+  {
+    "quote_id": 111,
+    "quote": "Do you trust me?",
+    "film": "Aladdin",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "Recognizable to viewers of the film but not uniquely attributable broadly.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/aladdin-quotes"
+    ]
+  },
+  {
+    "quote_id": 114,
+    "quote": "You can't marry a man you just met.",
+    "film": "Frozen",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "Recognizable within the film, but not a universal movie catchphrase.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/the-best-15-frozen-quotes-according-to-you"
+    ]
+  },
+  {
+    "quote_id": 117,
+    "quote": "Our fate lives within us. You only have to be brave enough to see it.",
+    "film": "Brave",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "Prominent thematic line, primarily recognizable to viewers familiar with the film.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/brave-quotes/"
+    ]
+  },
+  {
+    "quote_id": 124,
+    "quote": "Honey ... where is my super suit?",
+    "film": "The Incredibles",
+    "current_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "rationale": "Frequently quoted scene recognizable beyond dedicated viewers.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "quote_id": 129,
+    "quote": "Anyone can cook, but only the fearless can be great.",
+    "film": "Ratatouille",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "Recognizable thematic dialogue, but not universally attributable.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://news.disney.com/17-disney-quotes-that-will-never-get-old"
+    ]
+  },
+  {
+    "quote_id": 132,
+    "quote": "It was big.",
+    "film": "Nope",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "rationale": "Generic, context-dependent dialogue with almost no standalone attribution signal.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://awards.universalpictures.com/nope/screenplay/Nope.pdf"
+    ]
+  },
+  {
+    "quote_id": 133,
+    "quote": "What's a bad miracle? They got a word for that?",
+    "film": "Nope",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "Distinctive thematic line, mainly recognizable to viewers of the film.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://awards.universalpictures.com/nope/screenplay/Nope.pdf"
+    ]
+  },
+  {
+    "quote_id": 137,
+    "quote": "I'm gonna find your daughter.",
+    "film": "Prisoners",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "rationale": "Generic plot dialogue that is difficult to attribute outside its scene.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf"
+    ]
+  },
+  {
+    "quote_id": 138,
+    "quote": "Pray for the best. Prepare for the worst.",
+    "film": "Prisoners",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "Memorable aphoristic line, but not uniquely or universally tied to the film.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf"
+    ]
+  },
+  {
+    "quote_id": 142,
+    "quote": "Anyone can wear the mask.",
+    "film": "Spider-Man: Into the Spider-Verse",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "medium",
+    "rationale": "Central thematic line recognizable to fans, but not universally iconic.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://origin-flash.sonypictures.com/ist/awards_screenplays/SV_screenplay.pdf?file=DOCUMENT"
+    ]
+  },
+  {
+    "quote_id": 143,
+    "quote": "You gotta say I love you back.",
+    "film": "Spider-Man: Into the Spider-Verse",
+    "current_difficulty": "easy",
+    "proposed_difficulty": "hard",
+    "rationale": "Context-dependent family dialogue requiring knowledge of the scene.",
+    "review_status": "approved",
+    "difficulty_evidence": "documented human editorial review",
+    "quote_source_urls": [
+      "https://origin-flash.sonypictures.com/ist/awards_screenplays/SV_screenplay.pdf?file=DOCUMENT"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "film_title": "Star Wars: Episode V - The Empire Strikes Back",
+    "release_year": 1980,
+    "quote": "I am your father.",
+    "difficulty": "easy",
+    "source_url": "https://www.starwars.com/databank/darth-vader",
+    "source_name": "Official StarWars.com Darth Vader databank",
+    "source_type": "official_studio"
+  },
+  {
+    "film_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "release_year": 2003,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow.",
+    "difficulty": "easy",
+    "source_url": "https://news.disney.com/the-definitive-ranking-of-jack-sparrow-quotes/",
+    "source_name": "Disney News: A Definitive Ranking of Jack Sparrow Quotes",
+    "source_type": "official_studio"
+  },
+  {
+    "film_title": "Avengers: Endgame",
+    "release_year": 2019,
+    "quote": "I love you 3000.",
+    "difficulty": "easy",
+    "source_url": "https://www.marvel.com/articles/movies/love-relationships-mcu",
+    "source_name": "Marvel: 16 Times We Really Felt the Love in the MCU",
+    "source_type": "official_studio"
+  }
+]

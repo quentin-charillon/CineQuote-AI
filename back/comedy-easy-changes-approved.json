@@ -1,0 +1,9 @@
+[
+  {"quote_id": 103, "film": "Toy Story", "quote": "You are a toy!", "old_difficulty": "hard", "proposed_difficulty": "easy", "rationale": "Mainstream family film; a distinctive central Buzz/Woody catchphrase."},
+  {"quote_id": 104, "film": "Toy Story", "quote": "That wasn't flying. That was falling with style.", "old_difficulty": "hard", "proposed_difficulty": "easy", "rationale": "Mainstream family film; a widely repeated line directly associated with Buzz and Woody."},
+  {"quote_id": 106, "film": "Finding Nemo", "quote": "42 Wallaby Way, Sydney.", "old_difficulty": "medium", "proposed_difficulty": "easy", "rationale": "Mainstream family film; the repeated address is a distinctive plot-defining catchphrase."},
+  {"quote_id": 110, "film": "Monsters, Inc.", "quote": "Put that thing back where it came from or so help me!", "old_difficulty": "medium", "proposed_difficulty": "easy", "rationale": "Mainstream Pixar film; a distinctive, frequently repeated musical-scene line."},
+  {"quote_id": 112, "film": "Aladdin", "quote": "Phenomenal cosmic powers ... Itty bitty living space.", "old_difficulty": "medium", "proposed_difficulty": "easy", "rationale": "Mainstream Disney film; a distinctive Genie catchphrase tied directly to the film."},
+  {"quote_id": 115, "film": "Frozen", "quote": "Some people are worth melting for.", "old_difficulty": "medium", "proposed_difficulty": "easy", "rationale": "Mainstream Disney film; an iconic Olaf line with strong character association."},
+  {"quote_id": 129, "film": "Ratatouille", "quote": "Anyone can cook, but only the fearless can be great.", "old_difficulty": "medium", "proposed_difficulty": "easy", "rationale": "Mainstream Pixar film; the film's central and highly distinctive culinary maxim."}
+]

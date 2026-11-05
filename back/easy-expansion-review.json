@@ -1,0 +1,2814 @@
+[
+  {
+    "film_id": 1,
+    "film": "Star Wars",
+    "release_year": 1977,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 1,
+    "quote": "May the Force be with you.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 2,
+    "film": "The Terminator",
+    "release_year": 1984,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 2,
+    "quote": "I'll be back.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 3,
+    "film": "E.T.: The Extra-Terrestrial",
+    "release_year": 1982,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 3,
+    "quote": "E.T. phone home.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 4,
+    "film": "The Wizard of Oz",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 4,
+    "quote": "There's no place like home.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 23 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 4,
+    "film": "The Wizard of Oz",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 17,
+    "quote": "Toto, I've a feeling we're not in Kansas anymore.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 4 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 4,
+    "film": "The Wizard of Oz",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 100,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 99; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 5,
+    "film": "The Godfather",
+    "release_year": 1972,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 5,
+    "quote": "I'm gonna make him an offer he can't refuse.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 6,
+    "film": "Taxi Driver",
+    "release_year": 1976,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 6,
+    "quote": "You talking to me?",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 10 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 7,
+    "film": "The Sixth Sense",
+    "release_year": 1999,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 7,
+    "quote": "I see dead people.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 8,
+    "film": "Jerry Maguire",
+    "release_year": 1996,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 8,
+    "quote": "Show me the money!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 25 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 8,
+    "film": "Jerry Maguire",
+    "release_year": 1996,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 55,
+    "quote": "You had me at \"hello.\"",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 52 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 9,
+    "film": "Casablanca",
+    "release_year": 1942,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 9,
+    "quote": "Here's looking at you, kid.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 5 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 9,
+    "film": "Casablanca",
+    "release_year": 1942,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 29,
+    "quote": "Louis, I think this is the beginning of a beautiful friendship.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 20 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 9,
+    "film": "Casablanca",
+    "release_year": 1942,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 35,
+    "quote": "Play it, Sam. Play 'As Time goes By.'",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 28 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 9,
+    "film": "Casablanca",
+    "release_year": 1942,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 38,
+    "quote": "Round up the usual suspects.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 32 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 9,
+    "film": "Casablanca",
+    "release_year": 1942,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 48,
+    "quote": "We'll always have Paris.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 43 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 9,
+    "film": "Casablanca",
+    "release_year": 1942,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 70,
+    "quote": "Of all the gin joints in all the towns in all the world, she walks into mine.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 67; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 10,
+    "film": "Apollo 13",
+    "release_year": 1995,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 10,
+    "quote": "Houston, we have a problem.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 50 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 11,
+    "film": "Dirty Dancing",
+    "release_year": 1987,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 11,
+    "quote": "Nobody puts Baby in a corner.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 12,
+    "film": "A Few Good Men",
+    "release_year": 1992,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 12,
+    "quote": "You can't handle the truth!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 29 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 13,
+    "film": "Airplane!",
+    "release_year": 1980,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 13,
+    "quote": "Surely you can't be serious.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 79; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 14,
+    "film": "Top Gun",
+    "release_year": 1986,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 14,
+    "quote": "I feel the need - the need for speed!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 15,
+    "film": "Gone with the Wind",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 15,
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 1 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 15,
+    "film": "Gone with the Wind",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 37,
+    "quote": "After all, tomorrow is another day!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 31 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 15,
+    "film": "Gone with the Wind",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 62,
+    "quote": "As God is my witness, I'll never be hungry again.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 59 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 16,
+    "film": "On the Waterfront",
+    "release_year": 1954,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 16,
+    "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 3 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 17,
+    "film": "Sudden Impact",
+    "release_year": 1983,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 18,
+    "quote": "Go ahead, make my day.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 6 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 18,
+    "film": "Sunset Blvd.",
+    "release_year": 1950,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 19,
+    "quote": "All right, Mr. DeMille, I'm ready for my close-up.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 7 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 18,
+    "film": "Sunset Blvd.",
+    "release_year": 1950,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 32,
+    "quote": "I am big! It's the pictures that got small.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 24 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 19,
+    "film": "All About Eve",
+    "release_year": 1950,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 20,
+    "quote": "Fasten your seatbelts. It's going to be a bumpy night.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 9 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 20,
+    "film": "Cool Hand Luke",
+    "release_year": 1967,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 21,
+    "quote": "What we've got here is failure to communicate.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 11 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 21,
+    "film": "Apocalypse Now",
+    "release_year": 1979,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 22,
+    "quote": "I love the smell of napalm in the morning.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 12 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 22,
+    "film": "Love Story",
+    "release_year": 1970,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 23,
+    "quote": "Love means never having to say you're sorry.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 13 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 23,
+    "film": "The Maltese Falcon",
+    "release_year": 1941,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 24,
+    "quote": "The stuff that dreams are made of.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 14 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 24,
+    "film": "In the Heat of the Night",
+    "release_year": 1967,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 25,
+    "quote": "They call me Mister Tibbs!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 16 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 25,
+    "film": "Citizen Kane",
+    "release_year": 1941,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 26,
+    "quote": "Rosebud.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 17 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 26,
+    "film": "White Heat",
+    "release_year": 1949,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 27,
+    "quote": "Made it, Ma! Top of the world!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 18 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 27,
+    "film": "Network",
+    "release_year": 1976,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 28,
+    "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "AFI top-20 rank 19 supports quote recognizability, independently of movie familiarity.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 28,
+    "film": "The Silence of the Lambs",
+    "release_year": 1991,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 30,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 29,
+    "film": "Dr. No",
+    "release_year": 1963,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 31,
+    "quote": "Bond. James Bond.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 22 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 30,
+    "film": "She Done Him Wrong",
+    "release_year": 1933,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 33,
+    "quote": "Why don't you come up sometime and see me?",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 26 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 31,
+    "film": "Midnight Cowboy",
+    "release_year": 1969,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 34,
+    "quote": "I'm walking here! I'm walking here!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 27 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 32,
+    "film": "Grand Hotel",
+    "release_year": 1932,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 36,
+    "quote": "I want to be alone.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 30 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 33,
+    "film": "When Harry Met Sally...",
+    "release_year": 1989,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 39,
+    "quote": "I'll have what she's having.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 33 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 34,
+    "film": "To Have and Have Not",
+    "release_year": 1944,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 40,
+    "quote": "You know how to whistle, don't you, Steve? You just put your lips together and blow.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 34 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 35,
+    "film": "Jaws",
+    "release_year": 1975,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 41,
+    "quote": "You're gonna need a bigger boat.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 36,
+    "film": "The Treasure of the Sierra Madre",
+    "release_year": 1948,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 42,
+    "quote": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 36 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 37,
+    "film": "The Pride of the Yankees",
+    "release_year": 1943,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 43,
+    "quote": "Today, I consider myself the luckiest man on the face of the earth.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 38 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 38,
+    "film": "Field of Dreams",
+    "release_year": 1989,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 44,
+    "quote": "If you build it, he will come.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 39 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 39,
+    "film": "Forrest Gump",
+    "release_year": 1994,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 45,
+    "quote": "My mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 40,
+    "film": "Bonnie and Clyde",
+    "release_year": 1967,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 46,
+    "quote": "We rob banks.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 41 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 41,
+    "film": "The Graduate",
+    "release_year": 1967,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 47,
+    "quote": "Plastics.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 42 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 41,
+    "film": "The Graduate",
+    "release_year": 1967,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 66,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 63; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 42,
+    "film": "A Streetcar Named Desire",
+    "release_year": 1951,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 49,
+    "quote": "Stella! Hey, Stella!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 45 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 42,
+    "film": "A Streetcar Named Desire",
+    "release_year": 1951,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 78,
+    "quote": "I have always depended on the kindness of strangers.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 75; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 43,
+    "film": "Now, Voyager",
+    "release_year": 1942,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 50,
+    "quote": "Oh, Jerry, don't let's ask for the moon. We have the stars.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 46 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 44,
+    "film": "Shane",
+    "release_year": 1953,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 51,
+    "quote": "Shane. Shane. Come back!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 47 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 45,
+    "film": "Some Like It Hot",
+    "release_year": 1959,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 52,
+    "quote": "Well, nobody's perfect.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 48 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 46,
+    "film": "Frankenstein",
+    "release_year": 1931,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 53,
+    "quote": "It's alive! It's alive!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 49 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 47,
+    "film": "Dirty Harry",
+    "release_year": 1971,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 54,
+    "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 51 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 48,
+    "film": "Animal Crackers",
+    "release_year": 1930,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 56,
+    "quote": "One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 53 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 49,
+    "film": "A League of Their Own",
+    "release_year": 1992,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 57,
+    "quote": "There's no crying in baseball!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 54 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 50,
+    "film": "Annie Hall",
+    "release_year": 1977,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 58,
+    "quote": "La-dee-da, la-dee-da.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 55 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 51,
+    "film": "Psycho",
+    "release_year": 1960,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 59,
+    "quote": "A boy's best friend is his mother.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 56 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 52,
+    "film": "Wall Street",
+    "release_year": 1987,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 60,
+    "quote": "Greed, for lack of a better word, is good.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 57 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 53,
+    "film": "The Godfather Part II",
+    "release_year": 1974,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 61,
+    "quote": "Keep your friends close, but your enemies closer.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 58 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 54,
+    "film": "Sons of the Desert",
+    "release_year": 1933,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 63,
+    "quote": "Well, here's another nice mess you've gotten me into!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "AFI rank 60 supports cultural notability but not broad iconic recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 55,
+    "film": "Scarface",
+    "release_year": 1983,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 64,
+    "quote": "Say \"hello\" to my little friend!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 61; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 56,
+    "film": "Beyond the Forest",
+    "release_year": 1949,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 65,
+    "quote": "What a dump.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 62; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 57,
+    "film": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "release_year": 1964,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 67,
+    "quote": "Gentlemen, you can't fight in here! This is the War Room!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 64; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 58,
+    "film": "The Adventures of Sherlock Holmes",
+    "release_year": 1939,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 68,
+    "quote": "Elementary, my dear Watson.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 65; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 59,
+    "film": "Planet of the Apes",
+    "release_year": 1968,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 69,
+    "quote": "Take your stinking paws off me, you damned dirty ape.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 66; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 60,
+    "film": "The Shining",
+    "release_year": 1980,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 71,
+    "quote": "Here's Johnny!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 61,
+    "film": "Poltergeist",
+    "release_year": 1982,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 72,
+    "quote": "They're here!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 69; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 62,
+    "film": "Marathon Man",
+    "release_year": 1976,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 73,
+    "quote": "Is it safe?",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 70; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 63,
+    "film": "The Jazz Singer",
+    "release_year": 1927,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 74,
+    "quote": "Wait a minute, wait a minute. You ain't heard nothin' yet!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 71; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 64,
+    "film": "Mommie Dearest",
+    "release_year": 1981,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 75,
+    "quote": "No wire hangers, ever!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 72; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 65,
+    "film": "Little Caesar",
+    "release_year": 1931,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 76,
+    "quote": "Mother of mercy, is this the end of Rico?",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 73; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 66,
+    "film": "Chinatown",
+    "release_year": 1974,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 77,
+    "quote": "Forget it, Jake, it's Chinatown.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 74; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 67,
+    "film": "Terminator 2: Judgment Day",
+    "release_year": 1991,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 79,
+    "quote": "Hasta la vista, baby.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 68,
+    "film": "Soylent Green",
+    "release_year": 1973,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 80,
+    "quote": "Soylent Green is people!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 77; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 69,
+    "film": "2001: A Space Odyssey",
+    "release_year": 1968,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 81,
+    "quote": "Open the pod bay doors, please, HAL.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 78; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 70,
+    "film": "Rocky",
+    "release_year": 1976,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 83,
+    "quote": "Yo, Adrian!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 71,
+    "film": "Funny Girl",
+    "release_year": 1968,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 84,
+    "quote": "Hello, gorgeous.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 81; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 72,
+    "film": "National Lampoon's Animal House",
+    "release_year": 1978,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 85,
+    "quote": "Toga! Toga!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 82; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 73,
+    "film": "Dracula",
+    "release_year": 1931,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 86,
+    "quote": "Listen to them. Children of the night. What music they make.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 83; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 74,
+    "film": "King Kong",
+    "release_year": 1933,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 87,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 84; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 75,
+    "film": "The Lord of the Rings: The Two Towers",
+    "release_year": 2002,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 88,
+    "quote": "My precious.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 76,
+    "film": "Dog Day Afternoon",
+    "release_year": 1975,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 89,
+    "quote": "Attica! Attica!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 86; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 77,
+    "film": "42nd Street",
+    "release_year": 1933,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 90,
+    "quote": "Sawyer, you're going out a youngster, but you've got to come back a star!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 87; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 78,
+    "film": "On Golden Pond",
+    "release_year": 1981,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 91,
+    "quote": "Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna , go, go!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 88; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 79,
+    "film": "Knute Rockne--All American",
+    "release_year": 1940,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 92,
+    "quote": "Tell 'em to go out there with all they got and win just one for the Gipper.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 89; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 80,
+    "film": "Goldfinger",
+    "release_year": 1964,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 93,
+    "quote": "A martini. Shaken, not stirred.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 90; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 81,
+    "film": "The Naughty Nineties",
+    "release_year": 1945,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 94,
+    "quote": "Who's on first.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 91; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 82,
+    "film": "Caddyshack",
+    "release_year": 1980,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 95,
+    "quote": "Cinderella story. Outta nowhere. A former greenskeeper, now, about to become the Masters champion. It looks like a mirac...It's in the hole! It's in the hole! It's in the hole!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 92; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 83,
+    "film": "Auntie Mame",
+    "release_year": 1958,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 96,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 93; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 84,
+    "film": "Dead Poets Society",
+    "release_year": 1989,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 97,
+    "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 95; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 85,
+    "film": "Moonstruck",
+    "release_year": 1987,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 98,
+    "quote": "Snap out of it!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 96; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 86,
+    "film": "Yankee Doodle Dandy",
+    "release_year": 1942,
+    "film_familiarity": "niche",
+    "film_familiarity_rationale": "High-confidence editorial classification: primarily specialist, classic-cinema, or limited contemporary casual-audience familiarity; age alone is not the reason.",
+    "film_review_status": "approved",
+    "quote_id": 99,
+    "quote": "My mother thanks you. My father thanks you. My sister thanks you. And I thank you.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "AFI rank 97; retained as deeper-recognition dialogue under the conservative policy.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 87,
+    "film": "Titanic",
+    "release_year": 1997,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 101,
+    "quote": "I'm the king of the world!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.afi.com/afis-100-years-100-movie-quotes/"
+    ]
+  },
+  {
+    "film_id": 88,
+    "film": "Toy Story",
+    "release_year": 1995,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 102,
+    "quote": "To infinity and beyond!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-toy-story-quotes"
+    ]
+  },
+  {
+    "film_id": 88,
+    "film": "Toy Story",
+    "release_year": 1995,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 103,
+    "quote": "You are a toy!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-toy-story-quotes"
+    ]
+  },
+  {
+    "film_id": 88,
+    "film": "Toy Story",
+    "release_year": 1995,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 104,
+    "quote": "That wasn't flying. That was falling with style.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-toy-story-quotes"
+    ]
+  },
+  {
+    "film_id": 89,
+    "film": "Finding Nemo",
+    "release_year": 2003,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 105,
+    "quote": "Just keep swimming.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/a-finding-nemo-quote-for-every-occasion"
+    ]
+  },
+  {
+    "film_id": 89,
+    "film": "Finding Nemo",
+    "release_year": 2003,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 106,
+    "quote": "42 Wallaby Way, Sydney.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/a-finding-nemo-quote-for-every-occasion"
+    ]
+  },
+  {
+    "film_id": 89,
+    "film": "Finding Nemo",
+    "release_year": 2003,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 107,
+    "quote": "I am a nice shark, not a mindless eating machine.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/a-finding-nemo-quote-for-every-occasion"
+    ]
+  },
+  {
+    "film_id": 90,
+    "film": "Monsters, Inc.",
+    "release_year": 2001,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 108,
+    "quote": "Kitty!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-monsters-inc-quotes"
+    ]
+  },
+  {
+    "film_id": 90,
+    "film": "Monsters, Inc.",
+    "release_year": 2001,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 109,
+    "quote": "I'm watching you, Wazowski. Always watching. Always.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-monsters-inc-quotes"
+    ]
+  },
+  {
+    "film_id": 90,
+    "film": "Monsters, Inc.",
+    "release_year": 2001,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 110,
+    "quote": "Put that thing back where it came from or so help me!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/ultimate-list-monsters-inc-quotes"
+    ]
+  },
+  {
+    "film_id": 91,
+    "film": "Aladdin",
+    "release_year": 1992,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 111,
+    "quote": "Do you trust me?",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/aladdin-quotes"
+    ]
+  },
+  {
+    "film_id": 91,
+    "film": "Aladdin",
+    "release_year": 1992,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 112,
+    "quote": "Phenomenal cosmic powers ... Itty bitty living space.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/aladdin-quotes"
+    ]
+  },
+  {
+    "film_id": 91,
+    "film": "Aladdin",
+    "release_year": 1992,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 113,
+    "quote": "Ten thousand years will give you such a crick in the neck!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/aladdin-quotes"
+    ]
+  },
+  {
+    "film_id": 92,
+    "film": "Frozen",
+    "release_year": 2013,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 114,
+    "quote": "You can't marry a man you just met.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-best-15-frozen-quotes-according-to-you"
+    ]
+  },
+  {
+    "film_id": 92,
+    "film": "Frozen",
+    "release_year": 2013,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 115,
+    "quote": "Some people are worth melting for.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-best-15-frozen-quotes-according-to-you"
+    ]
+  },
+  {
+    "film_id": 92,
+    "film": "Frozen",
+    "release_year": 2013,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 116,
+    "quote": "This is awkward. Not you're awkward, but cause we're...I'm awkward. You're gorgeous. Wait, what?",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-best-15-frozen-quotes-according-to-you"
+    ]
+  },
+  {
+    "film_id": 93,
+    "film": "Brave",
+    "release_year": 2012,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 117,
+    "quote": "Our fate lives within us. You only have to be brave enough to see it.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/brave-quotes/"
+    ]
+  },
+  {
+    "film_id": 93,
+    "film": "Brave",
+    "release_year": 2012,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 118,
+    "quote": "Oats it is, then!",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/brave-quotes/"
+    ]
+  },
+  {
+    "film_id": 93,
+    "film": "Brave",
+    "release_year": 2012,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 119,
+    "quote": "Legends are lessons, they ring with truth.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/brave-quotes/"
+    ]
+  },
+  {
+    "film_id": 94,
+    "film": "The Lion King",
+    "release_year": 1994,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 120,
+    "quote": "Remember who you are.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-most-important-quotes-from-the-lion-king-according-to-you"
+    ]
+  },
+  {
+    "film_id": 94,
+    "film": "The Lion King",
+    "release_year": 1994,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 121,
+    "quote": "I laugh in the face of danger.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-most-important-quotes-from-the-lion-king-according-to-you"
+    ]
+  },
+  {
+    "film_id": 94,
+    "film": "The Lion King",
+    "release_year": 1994,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 122,
+    "quote": "There's one in every family, sire. Two in mine, actually.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-most-important-quotes-from-the-lion-king-according-to-you"
+    ]
+  },
+  {
+    "film_id": 95,
+    "film": "The Incredibles",
+    "release_year": 2004,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 123,
+    "quote": "No capes!",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "film_id": 95,
+    "film": "The Incredibles",
+    "release_year": 2004,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 124,
+    "quote": "Honey ... where is my super suit?",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "film_id": 95,
+    "film": "The Incredibles",
+    "release_year": 2004,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 125,
+    "quote": "I never look back, darling. It distracts from the now.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "film_id": 96,
+    "film": "Up",
+    "release_year": 2009,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 126,
+    "quote": "Adventure is out there!",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "Approved for Easy: high-confidence mainstream film and explicit iconic catchphrase evidence both pass.",
+    "difficulty_review_status": "approved",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "film_id": 96,
+    "film": "Up",
+    "release_year": 2009,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 127,
+    "quote": "I do not like the cone of shame.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "film_id": 96,
+    "film": "Up",
+    "release_year": 2009,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 128,
+    "quote": "Thanks for the adventure. Now go have a new one.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/"
+    ]
+  },
+  {
+    "film_id": 97,
+    "film": "Ratatouille",
+    "release_year": 2007,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 129,
+    "quote": "Anyone can cook, but only the fearless can be great.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/17-disney-quotes-that-will-never-get-old"
+    ]
+  },
+  {
+    "film_id": 97,
+    "film": "Ratatouille",
+    "release_year": 2007,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 130,
+    "quote": "A great artist can come from anywhere.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/disney-pixar-quotes-to-inspire-your-day"
+    ]
+  },
+  {
+    "film_id": 97,
+    "film": "Ratatouille",
+    "release_year": 2007,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 131,
+    "quote": "Good food is like music you can taste, color you can smell.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/disney-pixar-quotes-to-inspire-your-day"
+    ]
+  },
+  {
+    "film_id": 98,
+    "film": "Nope",
+    "release_year": 2022,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 132,
+    "quote": "It was big.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://awards.universalpictures.com/nope/screenplay/Nope.pdf"
+    ]
+  },
+  {
+    "film_id": 98,
+    "film": "Nope",
+    "release_year": 2022,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 133,
+    "quote": "What's a bad miracle? They got a word for that?",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://awards.universalpictures.com/nope/screenplay/Nope.pdf"
+    ]
+  },
+  {
+    "film_id": 98,
+    "film": "Nope",
+    "release_year": 2022,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 134,
+    "quote": "Don't look at him in the eyes. Please.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://awards.universalpictures.com/nope/screenplay/Nope.pdf"
+    ]
+  },
+  {
+    "film_id": 98,
+    "film": "Nope",
+    "release_year": 2022,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 135,
+    "quote": "The Oprah Shot.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://awards.universalpictures.com/nope/screenplay/Nope.pdf"
+    ]
+  },
+  {
+    "film_id": 98,
+    "film": "Nope",
+    "release_year": 2022,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 136,
+    "quote": "Gotta get our heads up out the clouds for this one.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://awards.universalpictures.com/nope/screenplay/Nope.pdf"
+    ]
+  },
+  {
+    "film_id": 99,
+    "film": "Prisoners",
+    "release_year": 2013,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 137,
+    "quote": "I'm gonna find your daughter.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf"
+    ]
+  },
+  {
+    "film_id": 99,
+    "film": "Prisoners",
+    "release_year": 2013,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 138,
+    "quote": "Pray for the best. Prepare for the worst.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf"
+    ]
+  },
+  {
+    "film_id": 99,
+    "film": "Prisoners",
+    "release_year": 2013,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 139,
+    "quote": "Don't make me do this anymore.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf"
+    ]
+  },
+  {
+    "film_id": 99,
+    "film": "Prisoners",
+    "release_year": 2013,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 140,
+    "quote": "I know you can't promise me anything -- I'm just asking you to be sure.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf"
+    ]
+  },
+  {
+    "film_id": 99,
+    "film": "Prisoners",
+    "release_year": 2013,
+    "film_familiarity": "recognizable",
+    "film_familiarity_rationale": "Editorial middle category: title is culturally or cinematically recognizable, but broad casual-audience familiarity is uncertain and should be validated by human research.",
+    "film_review_status": "pending",
+    "quote_id": 141,
+    "quote": "All you need to do to make it stop is tell me where they are.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://pdl.warnerbros.com/wbmovies/awards2013/screenplay/prisoners/prisoners_sp.pdf"
+    ]
+  },
+  {
+    "film_id": 100,
+    "film": "Spider-Man: Into the Spider-Verse",
+    "release_year": 2018,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 142,
+    "quote": "Anyone can wear the mask.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://origin-flash.sonypictures.com/ist/awards_screenplays/SV_screenplay.pdf?file=DOCUMENT"
+    ]
+  },
+  {
+    "film_id": 100,
+    "film": "Spider-Man: Into the Spider-Verse",
+    "release_year": 2018,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 143,
+    "quote": "You gotta say I love you back.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://origin-flash.sonypictures.com/ist/awards_screenplays/SV_screenplay.pdf?file=DOCUMENT"
+    ]
+  },
+  {
+    "film_id": 100,
+    "film": "Spider-Man: Into the Spider-Verse",
+    "release_year": 2018,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 144,
+    "quote": "You won't. It's a leap of faith.",
+    "quote_recognizability": "recognizable",
+    "quote_recognizability_rationale": "Prior editorial review supports film-viewer recognition.",
+    "old_difficulty": "medium",
+    "proposed_difficulty": "medium",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://origin-flash.sonypictures.com/ist/awards_screenplays/SV_screenplay.pdf?file=DOCUMENT"
+    ]
+  },
+  {
+    "film_id": 100,
+    "film": "Spider-Man: Into the Spider-Verse",
+    "release_year": 2018,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 145,
+    "quote": "Spider-Man always gets up.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://origin-flash.sonypictures.com/ist/awards_screenplays/SV_screenplay.pdf?file=DOCUMENT"
+    ]
+  },
+  {
+    "film_id": 100,
+    "film": "Spider-Man: Into the Spider-Verse",
+    "release_year": 2018,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 146,
+    "quote": "I'm Spider-Man. And I'm not the only one. Not by a long shot.",
+    "quote_recognizability": "obscure",
+    "quote_recognizability_rationale": "No independent evidence of broad standalone quote recognition.",
+    "old_difficulty": "hard",
+    "proposed_difficulty": "hard",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://origin-flash.sonypictures.com/ist/awards_screenplays/SV_screenplay.pdf?file=DOCUMENT"
+    ]
+  },
+  {
+    "film_id": 101,
+    "film": "Star Wars: Episode V - The Empire Strikes Back",
+    "release_year": 1980,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 147,
+    "quote": "I am your father.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.starwars.com/databank/darth-vader"
+    ]
+  },
+  {
+    "film_id": 102,
+    "film": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "release_year": 2003,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 148,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://news.disney.com/the-definitive-ranking-of-jack-sparrow-quotes/"
+    ]
+  },
+  {
+    "film_id": 103,
+    "film": "Avengers: Endgame",
+    "release_year": 2019,
+    "film_familiarity": "mainstream",
+    "film_familiarity_rationale": "High-confidence editorial classification: broad franchise, family, blockbuster, or enduring mass-audience familiarity in the French-speaking target context.",
+    "film_review_status": "approved",
+    "quote_id": 149,
+    "quote": "I love you 3000.",
+    "quote_recognizability": "iconic",
+    "quote_recognizability_rationale": "Explicit high-confidence catchphrase review.",
+    "old_difficulty": "easy",
+    "proposed_difficulty": "easy",
+    "difficulty_rationale": "No high-confidence difficulty change; retain for further review.",
+    "difficulty_review_status": "pending",
+    "quote_source_urls": [
+      "https://www.marvel.com/articles/movies/love-relationships-mcu"
+    ]
+  }
+]

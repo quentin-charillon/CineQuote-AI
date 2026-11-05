@@ -1,0 +1,15 @@
+{
+  "audit_date": "2026-11-02",
+  "films": 103,
+  "quotes": 148,
+  "verified_quotes": 148,
+  "unverified_quotes": 0,
+  "verified_by_difficulty": {"easy": 22, "medium": 71, "hard": 55},
+  "playable": {"easy": true, "medium": true, "hard": true},
+  "genres": {"Action": 15, "Adventure": 27, "Animation": 11, "Comedy": 27, "Crime": 19, "Drama": 60, "Fantasy": 6, "Horror": 8, "Romance": 16, "Science Fiction": 10, "Thriller": 11},
+  "genre_evidence": {"films_assigned": 98, "relationships": 210, "provider": "IMDb non-commercial title.basics dataset", "review_queue": 5},
+  "countries": {"Unknown": 103},
+  "decades": {"1920": 1, "1930": 12, "1940": 12, "1950": 7, "1960": 12, "1970": 16, "1980": 18, "1990": 12, "2000": 7, "2010": 5, "2020": 1},
+  "source_urls": ["https://www.afi.com/afis-100-years-100-movie-quotes/", "https://news.disney.com/17-disney-quotes-that-will-never-get-old", "https://news.disney.com/a-finding-nemo-quote-for-every-occasion", "https://news.disney.com/aladdin-quotes", "https://news.disney.com/brave-quotes/", "https://news.disney.com/disney-pixar-quotes-to-inspire-your-day", "https://news.disney.com/the-15-most-important-pixar-quotes-according-to-you/", "https://news.disney.com/the-best-15-frozen-quotes-according-to-you", "https://news.disney.com/the-definitive-ranking-of-jack-sparrow-quotes/", "https://news.disney.com/the-most-important-quotes-from-the-lion-king-according-to-you", "https://news.disney.com/ultimate-list-monsters-inc-quotes", "https://news.disney.com/ultimate-list-toy-story-quotes", "https://www.marvel.com/articles/movies/love-relationships-mcu", "https://www.starwars.com/databank/darth-vader"],
+  "duplicate_warnings": []
+}
