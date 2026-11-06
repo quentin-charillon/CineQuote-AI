@@ -34,7 +34,7 @@ Le projet combine développement web, API REST, gestion de bases de données, au
 
 ![Résultats du quiz](docs/screenshots/resultats.png)
 
-![iaChoice](docs/screenshots/iaChoice.png)
+![iaChoice](docs/screenshots/customChoice.png)
 
 > **Remarque :** les images ci-dessus doivent être ajoutées dans le dossier `docs/screenshots/` du dépôt GitHub pour être affichées.
 
