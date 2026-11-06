@@ -53,7 +53,7 @@ export function BackendGate({ children, onReady }: Props) {
       <p>Our cinema server is waking up. Your screening will begin shortly.</p>
       {state.phase === 'waiting' ? <div className="wake-progress" role="status" aria-live="polite">
         <span className="wake-progress__bar"><i /></span>
-        <small>The first loading may take a few moments. Attempt {state.attempt}.</small>
+        <small>On a first visit, waking the cinema can take up to three minutes. Attempt {state.attempt}.</small>
       </div> : <div className="wake-failure" role="alert">
         <small>{state.message}</small>
         <button type="button" onClick={() => setGeneration(value => value + 1)}>Retry <span>↻</span></button>

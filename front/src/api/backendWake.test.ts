@@ -1,6 +1,6 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
 
-import { BackendWakeError, waitForBackend } from './backendWake'
+import { BackendWakeError, WAKE_TOTAL_TIMEOUT_MS, waitForBackend } from './backendWake'
 
 afterEach(() => {
   vi.useRealTimers()
@@ -28,6 +28,7 @@ describe('backend wake-up', () => {
     const fetcher = vi.fn()
       .mockResolvedValueOnce(new Response(null, { status: 503 }))
       .mockResolvedValueOnce(new Response(null, { status: 502 }))
+      .mockResolvedValueOnce(new Response(null, { status: 504 }))
       .mockResolvedValueOnce(new Response('{}', { status: 200 }))
     let active = 0
     let maxActive = 0
@@ -42,8 +43,44 @@ describe('backend wake-up', () => {
     const waiting = waitForBackend(options(sequentialFetcher))
     await vi.runAllTimersAsync()
     await expect(waiting).resolves.toBeUndefined()
-    expect(fetcher).toHaveBeenCalledTimes(3)
+    expect(fetcher).toHaveBeenCalledTimes(4)
     expect(maxActive).toBe(1)
+  })
+
+  it('supports a slow cold start that recovers after more than two minutes', async () => {
+    vi.useFakeTimers()
+    vi.setSystemTime(0)
+    const fetcher = vi.fn()
+      .mockResolvedValueOnce(new Response(null, { status: 503 }))
+      .mockResolvedValueOnce(new Response(null, { status: 502 }))
+      .mockResolvedValueOnce(new Response(null, { status: 504 }))
+    for (let index = 0; index < 22; index += 1) {
+      fetcher.mockResolvedValueOnce(new Response(null, { status: 503 }))
+    }
+    fetcher.mockResolvedValueOnce(new Response('{}', { status: 200 }))
+
+    const waiting = waitForBackend({ signal: new AbortController().signal, fetcher })
+    await vi.runAllTimersAsync()
+
+    await expect(waiting).resolves.toBeUndefined()
+    expect(fetcher).toHaveBeenCalledTimes(26)
+    expect(Date.now()).toBe(125_000)
+  })
+
+  it('uses the full 180-second window before reporting a timeout', async () => {
+    vi.useFakeTimers()
+    vi.setSystemTime(0)
+    const fetcher = vi.fn().mockResolvedValue(new Response(null, { status: 503 })) as typeof fetch
+    const waiting = waitForBackend({ signal: new AbortController().signal, fetcher })
+    let settled = false
+    void waiting.then(() => { settled = true }, () => { settled = true })
+    const rejection = expect(waiting).rejects.toMatchObject({ kind: 'timeout' })
+
+    await vi.advanceTimersByTimeAsync(WAKE_TOTAL_TIMEOUT_MS - 1)
+    expect(settled).toBe(false)
+    await vi.advanceTimersByTimeAsync(1)
+    await rejection
+    expect(settled).toBe(true)
   })
 
   it('stops after the global timeout', async () => {

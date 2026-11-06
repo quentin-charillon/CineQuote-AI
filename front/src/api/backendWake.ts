@@ -1,5 +1,9 @@
 const TEMPORARY_STATUSES = new Set([408, 425, 429, 500, 502, 503, 504])
 
+export const WAKE_TOTAL_TIMEOUT_MS = 180_000
+export const WAKE_REQUEST_TIMEOUT_MS = 12_000
+export const WAKE_RETRY_DELAY_MS = 5_000
+
 export type WakeProgress = {
   attempt: number
   elapsedMs: number
@@ -43,9 +47,9 @@ export async function waitForBackend({
   signal,
   onProgress,
   fetcher = fetch,
-  totalTimeoutMs = 105_000,
-  requestTimeoutMs = 15_000,
-  delaysMs = [1_500, 2_500, 4_000, 6_000, 8_000, 10_000],
+  totalTimeoutMs = WAKE_TOTAL_TIMEOUT_MS,
+  requestTimeoutMs = WAKE_REQUEST_TIMEOUT_MS,
+  delaysMs = [WAKE_RETRY_DELAY_MS],
   now = Date.now,
 }: WakeOptions): Promise<void> {
   const startedAt = now()
