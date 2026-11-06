@@ -17,35 +17,24 @@ Le projet combine développement web, API REST, gestion de bases de données, au
 
 ## 📸 Aperçu de l'application
 
-### 🏠 Page d'accueil
 
-Découvrez l'interface principale de CineQuote AI.
 
 ![Page d'accueil de CineQuote AI](docs/screenshots/accueil.png)
 
-### 🎭 Choix du quiz
 
-Sélectionnez un genre cinématographique et un niveau de difficulté pour personnaliser votre expérience.
 
 ![Sélection du quiz](docs/screenshots/selection-quiz.png)
 
-### 🎬 Une question de cinéma
 
-Retrouvez le film correspondant à une citation parmi quatre réponses possibles.
 
 ![Question de quiz](docs/screenshots/question.png)
 
-### 🤖 Assistance par intelligence artificielle
 
-Demandez un indice pour vous aider à retrouver le film sans révéler directement la bonne réponse.
 
-![Indice généré par IA](docs/screenshots/indice-ia.png)
-
-### 🏆 Résultats et statistiques
-
-Consultez votre score et suivez votre progression au fil des parties.
 
 ![Résultats du quiz](docs/screenshots/resultats.png)
+
+![iaChoice](docs/screenshots/iaChoice.png)
 
 > **Remarque :** les images ci-dessus doivent être ajoutées dans le dossier `docs/screenshots/` du dépôt GitHub pour être affichées.
 
